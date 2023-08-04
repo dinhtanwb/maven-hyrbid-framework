@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on CHROME"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.285">
+  <properties />
+  
+  
+            <testcase name="TC_01_Register_Account" time="3.765" classname="com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I" />
+                <testcase name="TC_02_Login_Page" time="2.195" classname="com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I" />
+                <testcase name="TC_03_Verify_Data" time="1.325" classname="com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I" />
+      
+</testsuite>

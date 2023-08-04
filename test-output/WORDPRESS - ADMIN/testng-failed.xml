@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [WORDPRESS - ADMIN]">
+  <parameter name="browser" value="chrome"/>
+  <parameter name="url" value="https://demo.nopcommerce.com/"/>
+  <listeners>
+    <listener class-name="commons.MethodListener"/>
+  </listeners>
+  <test thread-count="5" name="Run on CHROME(failed)">
+    <classes>
+      <class name="com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_IV">
+        <methods>
+          <include name="afterClass"/>
+          <include name="TC_01_Register_Account"/>
+          <include name="TC_02_Login_Page"/>
+          <include name="beforeClass"/>
+          <include name="TC_03_Verify_Data"/>
+          <include name="initAllureReport"/>
+        </methods>
+      </class> <!-- com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_IV -->
+    </classes>
+  </test> <!-- Run on CHROME(failed) -->
+</suite> <!-- Failed suite [WORDPRESS - ADMIN] -->

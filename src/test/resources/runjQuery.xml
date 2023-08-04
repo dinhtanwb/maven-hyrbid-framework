@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NopCommerece Project">
+	<test name="Run JQuery">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.jQuery.TC_01_Lv09_DataGrid_DataTable2" />
+		</classes>
+	</test>
+</suite> 

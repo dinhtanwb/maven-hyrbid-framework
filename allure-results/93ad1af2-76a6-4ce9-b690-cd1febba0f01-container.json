@@ -1,0 +1,1 @@
+{"uuid":"93ad1af2-76a6-4ce9-b690-cd1febba0f01","name":"FAKER DATA - NOPCOMERCE","children":["3b67d17c-706f-4abd-87d2-3fedb79612be"],"befores":[{"name":"initAllureReport","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1691144005912,"stop":1691144005928}],"afters":[],"start":1691144005865,"stop":1691144018572}

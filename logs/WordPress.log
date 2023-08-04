@@ -1,0 +1,1684 @@
+[2023-07-31 09:57:27,994] OS name = windows 10
+[2023-07-31 09:57:27,995] Driver instance name = chromedriver: chrome on windows (11dbbc467346b363c8a062541722bab9)
+[2023-07-31 09:57:27,997] java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:49048
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'VN-TANTRANDINH2', ip: '192.168.180.99', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: RemoteWebDriver
+[2023-07-31 10:15:50,966] OS name = windows 10
+[2023-07-31 10:15:50,968] Cannot invoke "Object.toString()" because "this.driver" is null
+[2023-07-31 10:17:07,216] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-07-31 10:17:07,431] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-07-31 10:17:07,566] Pre-Condition - Step 03: Click to login button
+[2023-07-31 10:17:09,202] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-07-31 10:17:40,763] Create_New_Post - Step 02: Click to Add New button
+[2023-07-31 10:17:45,388] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title
+[2023-07-31 10:17:46,180] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body
+[2023-07-31 10:17:47,516] Create_New_Post - Step 05: Click to Publish button
+[2023-07-31 10:17:47,766] Create_New_Post - Step 06: Click to Re-publish button
+[2023-07-31 10:17:47,968] Create_New_Post - Step 07: Verify Published message displayed
+[2023-07-31 10:17:52,274] OS name = windows 10
+[2023-07-31 10:17:52,274] Driver instance name = chromedriver: chrome on windows (8272132361e46094ca6d87a821860375)
+[2023-07-31 10:38:47,499] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-07-31 10:38:47,687] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-07-31 10:38:47,823] Pre-Condition - Step 03: Click to login button
+[2023-07-31 10:38:49,960] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-07-31 10:39:07,722] Create_New_Post - Step 02: Click to Add New button
+[2023-07-31 10:39:11,136] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title
+[2023-07-31 10:39:11,812] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body
+[2023-07-31 10:39:12,834] Create_New_Post - Step 05: Click to Publish button
+[2023-07-31 10:39:13,104] Create_New_Post - Step 06: Click to Re-publish button
+[2023-07-31 10:39:13,275] Create_New_Post - Step 07: Verify Published message displayed
+[2023-07-31 10:39:17,077] Search_Post - Step 01: Open Search Post page
+[2023-07-31 10:39:18,589] OS name = windows 10
+[2023-07-31 10:39:18,590] Driver instance name = chromedriver: chrome on windows (c411f26f04c84067f24e4b8728b81bee)
+[2023-07-31 13:43:33,995] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-07-31 13:43:34,245] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-07-31 13:43:34,381] Pre-Condition - Step 03: Click to login button
+[2023-07-31 13:43:36,125] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-07-31 13:44:04,128] Create_New_Post - Step 02: Click to Add New button
+[2023-07-31 13:44:07,650] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 18020
+[2023-07-31 13:44:08,417] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 18020
+[2023-07-31 13:44:09,709] Create_New_Post - Step 05: Click to Publish button
+[2023-07-31 13:44:09,992] Create_New_Post - Step 06: Click to Re-publish button
+[2023-07-31 13:44:10,220] Create_New_Post - Step 07: Verify Published message displayed
+[2023-07-31 13:44:14,614] Search_Post - Step 01: Open Search Post page
+[2023-07-31 13:44:17,064] OS name = windows 10
+[2023-07-31 13:44:17,064] Driver instance name = chromedriver: chrome on windows (5a50f0a9144797aa65ba8a576f4107f9)
+[2023-07-31 13:45:18,833] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-07-31 13:45:19,049] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-07-31 13:45:19,181] Pre-Condition - Step 03: Click to login button
+[2023-07-31 13:45:21,157] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-07-31 13:45:41,826] Create_New_Post - Step 02: Click to Add New button
+[2023-07-31 13:45:45,239] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 81492
+[2023-07-31 13:45:46,103] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 81492
+[2023-07-31 13:45:47,743] Create_New_Post - Step 05: Click to Publish button
+[2023-07-31 13:45:48,063] Create_New_Post - Step 06: Click to Re-publish button
+[2023-07-31 13:45:49,190] Create_New_Post - Step 07: Verify Published message displayed
+[2023-07-31 13:45:51,960] Search_Post - Step 01: Open Search Post page
+[2023-07-31 13:45:59,476] OS name = windows 10
+[2023-07-31 13:45:59,477] Driver instance name = chromedriver: chrome on windows (17b8d913e7362bbf45a7826a3942d2df)
+[2023-07-31 15:05:28,552] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-07-31 15:05:28,778] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-07-31 15:05:28,912] Pre-Condition - Step 03: Click to login button
+[2023-07-31 15:05:30,884] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-07-31 15:05:53,641] Create_New_Post - Step 02: Click to Add New button
+[2023-07-31 15:06:03,700] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 27445
+[2023-07-31 15:06:04,459] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 27445
+[2023-07-31 15:06:05,723] Create_New_Post - Step 05: Click to Publish button
+[2023-07-31 15:06:06,004] Create_New_Post - Step 06: Click to Re-publish button
+[2023-07-31 15:06:06,202] Create_New_Post - Step 07: Verify Published message displayed
+[2023-07-31 15:06:10,223] Search_Post - Step 01: Open Search Post page
+[2023-07-31 15:06:12,685] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 27445
+[2023-07-31 15:06:12,838] Search_Post - Step 03: Click to Search Posts button
+[2023-07-31 15:06:15,501] Search_Post - Step 04: Verify Author is: tnpromax
+[2023-07-31 15:06:45,594] Search_Post - Step 05: Verify Categories are: Uncategorized
+[2023-07-31 15:07:15,718] Search_Post - Step 06: Verify Page title is: Selenium Page Title 27445
+[2023-07-31 15:07:45,899] OS name = windows 10
+[2023-07-31 15:07:45,899] Driver instance name = chromedriver: chrome on windows (4352d146b03f194a0f8dd67208066e81)
+[2023-07-31 15:11:35,014] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-07-31 15:11:35,227] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-07-31 15:11:35,358] Pre-Condition - Step 03: Click to login button
+[2023-07-31 15:11:36,961] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-07-31 15:11:50,239] Create_New_Post - Step 02: Click to Add New button
+[2023-07-31 15:11:54,044] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 61789
+[2023-07-31 15:11:54,841] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 61789
+[2023-07-31 15:11:56,069] Create_New_Post - Step 05: Click to Publish button
+[2023-07-31 15:11:56,407] Create_New_Post - Step 06: Click to Re-publish button
+[2023-07-31 15:11:56,641] Create_New_Post - Step 07: Verify Published message displayed
+[2023-07-31 15:12:00,341] Search_Post - Step 01: Open Search Post page
+[2023-07-31 15:12:02,887] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 61789
+[2023-07-31 15:12:03,054] Search_Post - Step 03: Click to Search Posts button
+[2023-07-31 15:12:05,643] Search_Post - Step 04: Verify Author is: tnpromax
+[2023-07-31 15:12:59,728] OS name = windows 10
+[2023-07-31 15:12:59,728] Driver instance name = chromedriver: chrome on windows (451eba05880daca43eb4b222ede3f47c)
+[2023-07-31 15:12:59,731] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=115.0.5790.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'VN-TANTRANDINH2', ip: '192.168.180.99', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\TAN~1.TRA\AppData\...}, goog:chromeOptions: {debuggerAddress: localhost:53476}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 451eba05880daca43eb4b222ede3f47c
+[2023-07-31 15:15:06,331] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-07-31 15:15:06,588] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-07-31 15:15:06,708] Pre-Condition - Step 03: Click to login button
+[2023-07-31 15:15:08,890] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-07-31 15:15:29,080] Create_New_Post - Step 02: Click to Add New button
+[2023-07-31 15:15:32,566] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 71622
+[2023-07-31 15:15:33,336] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 71622
+[2023-07-31 15:15:34,539] Create_New_Post - Step 05: Click to Publish button
+[2023-07-31 15:15:34,806] Create_New_Post - Step 06: Click to Re-publish button
+[2023-07-31 15:15:34,984] Create_New_Post - Step 07: Verify Published message displayed
+[2023-07-31 15:15:39,116] Search_Post - Step 01: Open Search Post page
+[2023-07-31 15:15:41,574] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 71622
+[2023-07-31 15:15:41,721] Search_Post - Step 03: Click to Search Posts button
+[2023-07-31 15:15:44,329] Search_Post - Step 04: Verify Author is: tnpromax
+[2023-07-31 15:16:44,451] OS name = windows 10
+[2023-07-31 15:16:44,451] Driver instance name = chromedriver: chrome on windows (5e88caec64b3c0da315df67c4dac6571)
+[2023-07-31 15:22:50,292] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-07-31 15:22:50,540] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-07-31 15:22:50,668] Pre-Condition - Step 03: Click to login button
+[2023-07-31 15:22:52,550] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-07-31 15:23:08,702] Create_New_Post - Step 02: Click to Add New button
+[2023-07-31 15:23:12,338] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 23834
+[2023-07-31 15:23:13,092] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 23834
+[2023-07-31 15:23:14,309] Create_New_Post - Step 05: Click to Publish button
+[2023-07-31 15:23:14,566] Create_New_Post - Step 06: Click to Re-publish button
+[2023-07-31 15:23:14,765] Create_New_Post - Step 07: Verify Published message displayed
+[2023-07-31 15:23:18,381] Search_Post - Step 01: Open Search Post page
+[2023-07-31 15:23:20,862] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 23834
+[2023-07-31 15:23:21,016] Search_Post - Step 03: Click to Search Posts button
+[2023-07-31 15:23:23,628] Search_Post - Step 04: Verify Author is: tnpromax
+[2023-07-31 15:23:23,726] Search_Post - Step 05: Verify Categories are: Uncategorized
+[2023-07-31 15:23:23,804] Search_Post - Step 06: Verify Page title is: Selenium Page Title 23834
+[2023-07-31 15:24:23,929] OS name = windows 10
+[2023-07-31 15:24:23,929] Driver instance name = chromedriver: chrome on windows (a2335d26f0aed9d2d90e634a958a5d35)
+[2023-07-31 17:29:45,101] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-07-31 17:30:15,413] OS name = windows 10
+[2023-07-31 17:30:15,413] Driver instance name = chromedriver: chrome on windows (60690000a52e1798d593f89dc2fb321c)
+[2023-07-31 17:30:15,416] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=115.0.5790.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'VN-TANTRANDINH2', ip: '192.168.180.99', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\TAN~1.TRA\AppData\...}, goog:chromeOptions: {debuggerAddress: localhost:59605}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 60690000a52e1798d593f89dc2fb321c
+[2023-07-31 17:31:54,134] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-07-31 17:31:54,354] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-07-31 17:31:54,493] Pre-Condition - Step 03: Click to login button
+[2023-07-31 17:31:56,301] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-07-31 17:32:12,317] Create_New_Post - Step 02: Click to Add New button
+[2023-07-31 17:32:16,016] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 18302
+[2023-07-31 17:32:16,831] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 18302
+[2023-07-31 17:32:18,168] Create_New_Post - Step 05: Click to Publish button
+[2023-07-31 17:32:18,421] Create_New_Post - Step 06: Click to Re-publish button
+[2023-07-31 17:32:18,617] Create_New_Post - Step 07: Verify Published message displayed
+[2023-07-31 17:32:22,331] Search_Post - Step 01: Open Search Post page
+[2023-07-31 17:32:24,806] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 18302
+[2023-07-31 17:32:24,969] Search_Post - Step 03: Click to Search Posts button
+[2023-07-31 17:32:27,556] Search_Post - Step 04: Verify Author is: tnpromax
+[2023-07-31 17:32:27,656] Search_Post - Step 05: Verify Categories are: Uncategorized
+[2023-07-31 17:32:27,741] Search_Post - Step 01: Verify Categories are: Uncategorized
+[2023-07-31 17:32:29,540] Search_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 18302
+[2023-07-31 17:32:29,606] Search_Post - Step 03: Verify Post Date Time Displayed: 07/31/2023
+[2023-07-31 17:32:59,700] OS name = windows 10
+[2023-07-31 17:32:59,700] Driver instance name = chromedriver: chrome on windows (52bf04f973c9401d5ba9aa197749e8c9)
+[2023-07-31 17:35:29,409] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-07-31 17:35:29,645] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-07-31 17:35:29,778] Pre-Condition - Step 03: Click to login button
+[2023-07-31 17:35:32,436] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-07-31 17:35:45,382] Create_New_Post - Step 02: Click to Add New button
+[2023-07-31 17:35:49,096] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 54951
+[2023-07-31 17:35:50,017] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 54951
+[2023-07-31 17:35:51,448] Create_New_Post - Step 05: Click to Publish button
+[2023-07-31 17:35:51,770] Create_New_Post - Step 06: Click to Re-publish button
+[2023-07-31 17:35:52,837] Create_New_Post - Step 07: Verify Published message displayed
+[2023-07-31 17:35:55,540] Search_Post - Step 01: Open Search Post page
+[2023-07-31 17:35:58,060] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 54951
+[2023-07-31 17:35:58,214] Search_Post - Step 03: Click to Search Posts button
+[2023-07-31 17:36:00,840] Search_Post - Step 04: Verify Author is: tnpromax
+[2023-07-31 17:36:00,937] Search_Post - Step 05: Verify Categories are: Uncategorized
+[2023-07-31 17:36:01,021] View_Post - Step 01: Verify Categories are: Uncategorized
+[2023-07-31 17:36:02,902] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 54951
+[2023-07-31 17:36:02,967] View_Post - Step 03: Verify Post Date Time Displayed: 07/31/2023
+[2023-07-31 17:36:33,047] OS name = windows 10
+[2023-07-31 17:36:33,048] Driver instance name = chromedriver: chrome on windows (61420b902e14c8d834d8c54d005b37a7)
+[2023-07-31 17:42:35,210] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-07-31 17:42:35,425] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-07-31 17:42:35,560] Pre-Condition - Step 03: Click to login button
+[2023-07-31 17:42:37,107] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-07-31 17:42:50,939] Create_New_Post - Step 02: Click to Add New button
+[2023-07-31 17:42:54,632] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 41122
+[2023-07-31 17:42:55,416] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 41122
+[2023-07-31 17:42:56,594] Create_New_Post - Step 05: Click to Publish button
+[2023-07-31 17:42:56,859] Create_New_Post - Step 06: Click to Re-publish button
+[2023-07-31 17:42:57,054] Create_New_Post - Step 07: Verify Published message displayed
+[2023-07-31 17:43:00,601] Search_Post - Step 01: Open Search Post page
+[2023-07-31 17:43:03,072] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 41122
+[2023-07-31 17:43:03,218] Search_Post - Step 03: Click to Search Posts button
+[2023-07-31 17:43:05,791] Search_Post - Step 04: Verify Author is: tnpromax
+[2023-07-31 17:43:05,894] Search_Post - Step 05: Verify Categories are: Uncategorized
+[2023-07-31 17:43:05,980] View_Post - Step 01: Verify Categories are: Uncategorized
+[2023-07-31 17:43:07,533] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 41122
+[2023-07-31 17:43:07,597] View_Post - Step 03: Verify Post Date Time Displayed: 07/31/2023
+[2023-07-31 17:43:07,646] View_Post - Step 04: Verify Post Body : Selenium Page Body 41122
+[2023-07-31 17:43:07,693] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-07-31 17:43:07,738] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 41122
+[2023-07-31 17:43:09,419] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 41122
+[2023-07-31 17:43:09,480] View_Post - Step 08: Verify Detail Post Date Time Displayed: 07/31/2023
+[2023-07-31 17:43:09,530] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 41122
+[2023-07-31 17:43:09,574] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-07-31 17:43:09,635] OS name = windows 10
+[2023-07-31 17:43:09,636] Driver instance name = chromedriver: chrome on windows (b9d3f0b74706a045d84807aeba46e3a5)
+[2023-07-31 17:48:22,907] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-07-31 17:48:23,173] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-07-31 17:48:23,290] Pre-Condition - Step 03: Click to login button
+[2023-07-31 17:48:24,889] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-07-31 17:48:43,291] Create_New_Post - Step 02: Click to Add New button
+[2023-07-31 17:48:46,723] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 74447
+[2023-07-31 17:48:47,543] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 74447
+[2023-07-31 17:48:48,789] Create_New_Post - Step 05: Click to Publish button
+[2023-07-31 17:48:49,065] Create_New_Post - Step 06: Click to Re-publish button
+[2023-07-31 17:48:49,272] Create_New_Post - Step 07: Verify Published message displayed
+[2023-07-31 17:48:52,678] Search_Post - Step 01: Open Search Post page
+[2023-07-31 17:48:55,197] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 74447
+[2023-07-31 17:48:55,349] Search_Post - Step 03: Click to Search Posts button
+[2023-07-31 17:48:57,963] Search_Post - Step 04: Verify Author is: tnpromax
+[2023-07-31 17:48:58,064] Search_Post - Step 05: Verify Categories are: Uncategorized
+[2023-07-31 17:48:58,153] View_Post - Step 01: Verify Categories are: Uncategorized
+[2023-07-31 17:48:59,783] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 74447
+[2023-07-31 17:48:59,849] View_Post - Step 03: Verify Post Date Time Displayed: 07/31/2023
+[2023-07-31 17:48:59,902] View_Post - Step 04: Verify Post Body : Selenium Page Body 74447
+[2023-07-31 17:48:59,950] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-07-31 17:49:00,015] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 74447
+[2023-07-31 17:49:01,709] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 74447
+[2023-07-31 17:49:01,771] View_Post - Step 08: Verify Detail Post Date Time Displayed: 07/31/2023
+[2023-07-31 17:49:01,820] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 74447
+[2023-07-31 17:49:01,868] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-07-31 17:49:01,940] OS name = windows 10
+[2023-07-31 17:49:01,941] Driver instance name = chromedriver: chrome on windows (8dd48695263d48f785693b4fef6853fd)
+[2023-07-31 17:51:52,687] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-07-31 17:51:52,912] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-07-31 17:51:53,046] Pre-Condition - Step 03: Click to login button
+[2023-07-31 17:51:54,912] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-07-31 17:52:08,113] Create_New_Post - Step 02: Click to Add New button
+[2023-07-31 17:52:11,390] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 86156
+[2023-07-31 17:52:12,206] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 86156
+[2023-07-31 17:52:13,590] Create_New_Post - Step 05: Click to Publish button
+[2023-07-31 17:52:13,915] Create_New_Post - Step 06: Click to Re-publish button
+[2023-07-31 17:52:14,134] Create_New_Post - Step 07: Verify Published message displayed
+[2023-07-31 17:52:17,975] Search_Post - Step 01: Open Search Post page
+[2023-07-31 17:52:20,564] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 86156
+[2023-07-31 17:52:20,726] Search_Post - Step 03: Click to Search Posts button
+[2023-07-31 17:52:23,372] Search_Post - Step 04: Verify Author is: tnpromax
+[2023-07-31 17:52:23,485] Search_Post - Step 05: Verify Categories are: Uncategorized
+[2023-07-31 17:52:23,571] View_Post - Step 01: Verify Categories are: Uncategorized
+[2023-07-31 17:52:25,177] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 86156
+[2023-07-31 17:52:25,243] View_Post - Step 03: Verify Post Date Time Displayed: 07/31/2023
+[2023-07-31 17:52:25,296] View_Post - Step 04: Verify Post Body : Selenium Page Body 86156
+[2023-07-31 17:52:25,341] View_Post - Step 05: Verify Post By Author Displayed: Tnpromax
+[2023-07-31 17:52:25,405] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 86156
+[2023-07-31 17:52:27,184] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 86156
+[2023-07-31 17:52:27,242] View_Post - Step 08: Verify Detail Post Date Time Displayed: 07/31/2023
+[2023-07-31 17:52:27,289] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 86156
+[2023-07-31 17:52:27,340] View_Post - Step 10: Verify Detail Post By Author Displayed: Tnpromax
+[2023-07-31 17:52:27,406] OS name = windows 10
+[2023-07-31 17:52:27,406] Driver instance name = chromedriver: chrome on windows (925b01c21726f347f5f4029ae6bbdedf)
+[2023-07-31 17:59:31,051] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-07-31 17:59:31,271] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-07-31 17:59:31,459] Pre-Condition - Step 03: Click to login button
+[2023-07-31 17:59:33,496] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-07-31 17:59:51,475] Create_New_Post - Step 02: Click to Add New button
+[2023-07-31 17:59:55,021] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 72765
+[2023-07-31 17:59:55,795] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 72765
+[2023-07-31 17:59:56,963] Create_New_Post - Step 05: Click to Publish button
+[2023-07-31 17:59:57,226] Create_New_Post - Step 06: Click to Re-publish button
+[2023-07-31 17:59:57,420] Create_New_Post - Step 07: Verify Published message displayed
+[2023-07-31 18:00:01,012] Search_Post - Step 01: Open Search Post page
+[2023-07-31 18:00:03,532] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 72765
+[2023-07-31 18:00:03,693] Search_Post - Step 03: Click to Search Posts button
+[2023-07-31 18:00:06,321] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-07-31 18:00:06,420] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-07-31 18:00:06,504] View_Post - Step 01: Open User page site
+[2023-07-31 18:00:08,303] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 72765
+[2023-07-31 18:00:08,365] View_Post - Step 03: Verify Post Date Time Displayed: 07/31/2023
+[2023-07-31 18:00:08,413] View_Post - Step 04: Verify Post Body : Selenium Page Body 72765
+[2023-07-31 18:00:08,460] View_Post - Step 05: Verify Post By Author Displayed: Tnpromax
+[2023-07-31 18:00:08,523] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 72765
+[2023-07-31 18:00:10,188] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 72765
+[2023-07-31 18:00:10,251] View_Post - Step 08: Verify Detail Post Date Time Displayed: 07/31/2023
+[2023-07-31 18:00:10,301] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 72765
+[2023-07-31 18:00:10,346] View_Post - Step 10: Verify Detail Post By Author Displayed: Tnpromax
+[2023-07-31 18:00:10,412] OS name = windows 10
+[2023-07-31 18:00:10,412] Driver instance name = chromedriver: chrome on windows (de7bc3dfbb7dc9b619c99fe26b836ff2)
+[2023-08-01 11:18:26,110] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 11:18:26,338] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 11:18:26,469] Pre-Condition - Step 03: Click to login button
+[2023-08-01 11:18:28,399] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-01 11:18:49,565] Create_New_Post - Step 02: Click to Add New button
+[2023-08-01 11:18:59,951] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 36270
+[2023-08-01 11:19:00,742] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 36270
+[2023-08-01 11:19:02,013] Create_New_Post - Step 05: Click to Publish button
+[2023-08-01 11:19:02,270] Create_New_Post - Step 06: Click to Re-publish button
+[2023-08-01 11:19:02,479] Create_New_Post - Step 07: Verify Published message displayed
+[2023-08-01 11:19:06,054] Search_Post - Step 01: Open Search Post page
+[2023-08-01 11:19:08,562] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 36270
+[2023-08-01 11:19:08,719] Search_Post - Step 03: Click to Search Posts button
+[2023-08-01 11:19:11,264] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-08-01 11:19:11,362] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-08-01 11:19:11,456] View_Post - Step 01: Open User page site
+[2023-08-01 11:19:13,302] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 36270
+[2023-08-01 11:19:13,369] View_Post - Step 03: Verify Post Date Time Displayed: 08/01/2023
+[2023-08-01 11:19:13,417] View_Post - Step 04: Verify Post Body : Selenium Page Body 36270
+[2023-08-01 11:19:13,469] View_Post - Step 05: Verify Post By Author Displayed: Tnpromax
+[2023-08-01 11:19:43,544] OS name = windows 10
+[2023-08-01 11:19:43,544] Driver instance name = chromedriver: chrome on windows (8be2e884dbdd84a44993781727386704)
+[2023-08-01 11:24:16,829] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 11:24:17,134] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 11:24:17,288] Pre-Condition - Step 03: Click to login button
+[2023-08-01 11:24:18,918] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-01 11:24:27,958] Create_New_Post - Step 02: Click to Add New button
+[2023-08-01 11:24:31,116] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 21490
+[2023-08-01 11:24:31,973] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 21490
+[2023-08-01 11:24:33,208] Create_New_Post - Step 05: Click to Publish button
+[2023-08-01 11:24:33,524] Create_New_Post - Step 06: Click to Re-publish button
+[2023-08-01 11:24:33,749] Create_New_Post - Step 07: Verify Published message displayed
+[2023-08-01 11:24:37,824] Search_Post - Step 01: Open Search Post page
+[2023-08-01 11:24:40,341] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 21490
+[2023-08-01 11:24:40,507] Search_Post - Step 03: Click to Search Posts button
+[2023-08-01 11:24:43,077] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-08-01 11:24:43,179] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-08-01 11:24:43,267] View_Post - Step 01: Open User page site
+[2023-08-01 11:24:44,907] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 21490
+[2023-08-01 11:24:44,971] View_Post - Step 03: Verify Post Date Time Displayed: 08/01/2023
+[2023-08-01 11:24:45,020] View_Post - Step 04: Verify Post Body : Selenium Page Body 21490
+[2023-08-01 11:24:45,071] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-08-01 11:24:45,122] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 21490
+[2023-08-01 11:24:46,823] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 21490
+[2023-08-01 11:24:46,891] View_Post - Step 08: Verify Detail Post Date Time Displayed: 08/01/2023
+[2023-08-01 11:24:46,950] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 21490
+[2023-08-01 11:24:47,003] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-01 11:24:47,067] OS name = windows 10
+[2023-08-01 11:24:47,068] Driver instance name = chromedriver: chrome on windows (4f195ec952fe479dab6f9d0a49edbfe1)
+[2023-08-01 11:53:28,207] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 11:53:28,430] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 11:53:28,576] Pre-Condition - Step 03: Click to login button
+[2023-08-01 11:53:30,717] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-01 11:53:51,902] Create_New_Post - Step 02: Click to Add New button
+[2023-08-01 11:53:55,615] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 98147
+[2023-08-01 11:53:57,779] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 98147
+[2023-08-01 11:53:59,802] Create_New_Post - Step 05: Click to Publish button
+[2023-08-01 11:54:00,091] Create_New_Post - Step 06: Click to Re-publish button
+[2023-08-01 11:54:00,286] Create_New_Post - Step 07: Verify Published message displayed
+[2023-08-01 11:54:02,528] Search_Post - Step 01: Open Search Post page
+[2023-08-01 11:54:05,116] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 98147
+[2023-08-01 11:54:05,266] Search_Post - Step 03: Click to Search Posts button
+[2023-08-01 11:54:08,150] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-08-01 11:54:08,227] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-08-01 11:54:08,306] View_Post - Step 01: Open User page site
+[2023-08-01 11:54:10,280] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 98147
+[2023-08-01 11:54:10,345] View_Post - Step 03: Verify Post Date Time Displayed: 08/01/2023
+[2023-08-01 11:54:10,397] View_Post - Step 04: Verify Post Body : Selenium Page Body 98147
+[2023-08-01 11:54:10,450] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-08-01 11:54:10,501] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 98147
+[2023-08-01 11:54:12,242] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 98147
+[2023-08-01 11:54:12,311] View_Post - Step 08: Verify Detail Post Date Time Displayed: 08/01/2023
+[2023-08-01 11:54:12,364] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 98147
+[2023-08-01 11:54:12,418] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-01 11:54:12,479] Edit_Post - Step 01: Open Admin page site
+[2023-08-01 11:54:13,949] Edit_Post - Step 02: Click to Posts Menu
+[2023-08-01 11:54:44,032] OS name = windows 10
+[2023-08-01 11:54:44,032] Driver instance name = chromedriver: chrome on windows (57ada906048532b44c67e6f36af7d2cf)
+[2023-08-01 11:55:59,473] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 11:55:59,700] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 11:55:59,838] Pre-Condition - Step 03: Click to login button
+[2023-08-01 11:56:01,709] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-01 11:56:19,375] Create_New_Post - Step 02: Click to Add New button
+[2023-08-01 11:56:23,069] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 23518
+[2023-08-01 11:56:23,829] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 23518
+[2023-08-01 11:56:25,054] Create_New_Post - Step 05: Click to Publish button
+[2023-08-01 11:56:25,331] Create_New_Post - Step 06: Click to Re-publish button
+[2023-08-01 11:56:25,520] Create_New_Post - Step 07: Verify Published message displayed
+[2023-08-01 11:56:29,210] Search_Post - Step 01: Open Search Post page
+[2023-08-01 11:56:31,768] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 23518
+[2023-08-01 11:56:31,943] Search_Post - Step 03: Click to Search Posts button
+[2023-08-01 11:56:34,629] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-08-01 11:56:34,703] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-08-01 11:56:34,776] View_Post - Step 01: Open User page site
+[2023-08-01 11:56:36,801] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 23518
+[2023-08-01 11:56:36,870] View_Post - Step 03: Verify Post Date Time Displayed: 08/01/2023
+[2023-08-01 11:56:36,922] View_Post - Step 04: Verify Post Body : Selenium Page Body 23518
+[2023-08-01 11:56:36,982] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-08-01 11:56:37,031] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 23518
+[2023-08-01 11:56:38,863] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 23518
+[2023-08-01 11:56:38,930] View_Post - Step 08: Verify Detail Post Date Time Displayed: 08/01/2023
+[2023-08-01 11:56:38,984] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 23518
+[2023-08-01 11:56:39,035] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-01 11:56:39,091] Edit_Post - Step 01: Open Admin page site
+[2023-08-01 11:56:40,328] Edit_Post - Step 02: Click to Posts Menu
+[2023-08-01 11:56:52,008] Edit_Post - Step 03: Select Post Title in row by text
+[2023-08-01 11:57:22,065] OS name = windows 10
+[2023-08-01 11:57:22,065] Driver instance name = chromedriver: chrome on windows (56061bcfa7584c53836395ce059408cb)
+[2023-08-01 13:05:12,217] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 13:05:12,455] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 13:05:12,591] Pre-Condition - Step 03: Click to login button
+[2023-08-01 13:05:15,133] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-01 13:05:28,060] Create_New_Post - Step 02: Click to Add New button
+[2023-08-01 13:05:32,139] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 98892
+[2023-08-01 13:05:33,312] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 98892
+[2023-08-01 13:05:34,630] Create_New_Post - Step 05: Click to Publish button
+[2023-08-01 13:05:35,045] Create_New_Post - Step 06: Click to Re-publish button
+[2023-08-01 13:05:35,464] Create_New_Post - Step 07: Verify Published message displayed
+[2023-08-01 13:05:39,057] Search_Post - Step 01: Open Search Post page
+[2023-08-01 13:05:41,548] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 98892
+[2023-08-01 13:05:41,707] Search_Post - Step 03: Click to Search Posts button
+[2023-08-01 13:05:44,338] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-08-01 13:05:44,431] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-08-01 13:05:44,506] View_Post - Step 01: Open User page site
+[2023-08-01 13:05:46,849] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 98892
+[2023-08-01 13:05:46,916] View_Post - Step 03: Verify Post Date Time Displayed: 08/01/2023
+[2023-08-01 13:05:46,971] View_Post - Step 04: Verify Post Body : Selenium Page Body 98892
+[2023-08-01 13:05:47,020] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-08-01 13:05:47,067] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 98892
+[2023-08-01 13:05:48,908] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 98892
+[2023-08-01 13:05:48,974] View_Post - Step 08: Verify Detail Post Date Time Displayed: 08/01/2023
+[2023-08-01 13:05:49,026] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 98892
+[2023-08-01 13:05:49,076] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-01 13:05:49,134] Edit_Post - Step 01: Open Admin page site
+[2023-08-01 13:05:50,367] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 13:05:50,574] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 13:05:50,697] Pre-Condition - Step 03: Click to login button
+[2023-08-01 13:05:53,532] Edit_Post - Step 02: Click to Posts Menu
+[2023-08-01 13:05:55,141] Edit_Post - Step 03: Select Post Title in row by text
+[2023-08-01 13:05:58,673] Edit_Post - Step 04: Edit page title value is: Edit Selenium Page Title 98892
+[2023-08-01 13:05:59,527] Edit_Post - Step 05: Edit page body value is: Edit Selenium Page Body 98892
+[2023-08-01 13:06:29,685] OS name = windows 10
+[2023-08-01 13:06:29,686] Driver instance name = chromedriver: chrome on windows (03daa16613cb020e55f77603070e667c)
+[2023-08-01 13:26:15,757] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 13:26:15,953] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 13:26:16,101] Pre-Condition - Step 03: Click to login button
+[2023-08-01 13:26:17,766] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-01 13:26:27,911] Create_New_Post - Step 02: Click to Add New button
+[2023-08-01 13:26:31,309] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 97742
+[2023-08-01 13:26:32,379] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 97742
+[2023-08-01 13:26:33,821] Create_New_Post - Step 05: Click to Publish button
+[2023-08-01 13:26:34,040] Create_New_Post - Step 06: Click to Re-publish button
+[2023-08-01 13:26:34,372] Create_New_Post - Step 07: Verify Published message displayed
+[2023-08-01 13:26:38,130] Search_Post - Step 01: Open Search Post page
+[2023-08-01 13:26:40,654] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 97742
+[2023-08-01 13:26:40,819] Search_Post - Step 03: Click to Search Posts button
+[2023-08-01 13:26:43,662] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-08-01 13:26:43,736] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-08-01 13:26:43,808] View_Post - Step 01: Open User page site
+[2023-08-01 13:26:45,661] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 97742
+[2023-08-01 13:26:45,735] View_Post - Step 03: Verify Post Date Time Displayed: 08/01/2023
+[2023-08-01 13:26:45,785] View_Post - Step 04: Verify Post Body : Selenium Page Body 97742
+[2023-08-01 13:26:45,836] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-08-01 13:26:45,891] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 97742
+[2023-08-01 13:26:47,570] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 97742
+[2023-08-01 13:26:47,637] View_Post - Step 08: Verify Detail Post Date Time Displayed: 08/01/2023
+[2023-08-01 13:26:47,689] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 97742
+[2023-08-01 13:26:47,740] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-01 13:26:47,796] Edit_Post - Step 01: Open Admin page site
+[2023-08-01 13:26:49,021] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 13:26:49,211] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 13:26:49,345] Pre-Condition - Step 03: Click to login button
+[2023-08-01 13:26:52,194] Edit_Post - Step 02: Click to Posts Menu
+[2023-08-01 13:26:54,104] Edit_Post - Step 03: Select Post Title in row by text
+[2023-08-01 13:26:57,356] Edit_Post - Step 04: Edit page title value is: Edit Selenium Page Title 97742
+[2023-08-01 13:26:58,220] Edit_Post - Step 05: Edit page body value is: Edit Selenium Page Body 97742
+[2023-08-01 13:27:28,409] OS name = windows 10
+[2023-08-01 13:27:28,409] Driver instance name = chromedriver: chrome on windows (f68924c08d0dbdc486997cdfa36324df)
+[2023-08-01 13:29:28,421] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 13:29:28,640] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 13:29:28,781] Pre-Condition - Step 03: Click to login button
+[2023-08-01 13:29:30,589] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-01 13:29:43,224] Create_New_Post - Step 02: Click to Add New button
+[2023-08-01 13:29:46,831] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 23112
+[2023-08-01 13:29:47,753] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 23112
+[2023-08-01 13:29:53,964] Create_New_Post - Step 05: Click to Publish button
+[2023-08-01 13:29:54,078] Create_New_Post - Step 06: Click to Re-publish button
+[2023-08-01 13:29:54,262] Create_New_Post - Step 07: Verify Published message displayed
+[2023-08-01 13:29:56,066] Search_Post - Step 01: Open Search Post page
+[2023-08-01 13:29:58,609] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 23112
+[2023-08-01 13:29:58,779] Search_Post - Step 03: Click to Search Posts button
+[2023-08-01 13:30:01,409] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-08-01 13:30:01,485] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-08-01 13:30:01,554] View_Post - Step 01: Open User page site
+[2023-08-01 13:30:03,357] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 23112
+[2023-08-01 13:30:03,424] View_Post - Step 03: Verify Post Date Time Displayed: 08/01/2023
+[2023-08-01 13:30:03,481] View_Post - Step 04: Verify Post Body : Selenium Page Body 23112
+[2023-08-01 13:30:03,531] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-08-01 13:30:03,581] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 23112
+[2023-08-01 13:30:05,489] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 23112
+[2023-08-01 13:30:05,553] View_Post - Step 08: Verify Detail Post Date Time Displayed: 08/01/2023
+[2023-08-01 13:30:05,605] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 23112
+[2023-08-01 13:30:05,654] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-01 13:30:05,707] Edit_Post - Step 01: Open Admin page site
+[2023-08-01 13:30:06,940] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 13:30:07,127] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 13:30:07,259] Pre-Condition - Step 03: Click to login button
+[2023-08-01 13:30:10,090] Edit_Post - Step 02: Click to Posts Menu
+[2023-08-01 13:30:11,678] Edit_Post - Step 03: Select Post Title in row by text
+[2023-08-01 13:30:15,164] Edit_Post - Step 04: Edit page title value is: Edit Selenium Page Title 23112
+[2023-08-01 13:30:15,993] Edit_Post - Step 05: Edit page body value is: Edit Selenium Page Body 23112
+[2023-08-01 13:30:46,181] OS name = windows 10
+[2023-08-01 13:30:46,181] Driver instance name = chromedriver: chrome on windows (50e6aa14c648718dcd77b1d4024d40ca)
+[2023-08-01 13:38:21,858] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 13:38:22,109] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 13:38:22,279] Pre-Condition - Step 03: Click to login button
+[2023-08-01 13:38:24,198] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-01 13:38:47,539] Create_New_Post - Step 02: Click to Add New button
+[2023-08-01 13:38:51,066] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 32291
+[2023-08-01 13:38:51,834] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 32291
+[2023-08-01 13:38:53,339] Create_New_Post - Step 05: Click to Publish button
+[2023-08-01 13:38:53,562] Create_New_Post - Step 06: Click to Re-publish button
+[2023-08-01 13:38:53,871] Create_New_Post - Step 07: Verify Published message displayed
+[2023-08-01 13:38:57,280] Search_Post - Step 01: Open Search Post page
+[2023-08-01 13:38:59,798] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 32291
+[2023-08-01 13:38:59,961] Search_Post - Step 03: Click to Search Posts button
+[2023-08-01 13:39:02,649] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-08-01 13:39:02,725] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-08-01 13:39:02,796] View_Post - Step 01: Open User page site
+[2023-08-01 13:39:04,396] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 32291
+[2023-08-01 13:39:04,479] View_Post - Step 03: Verify Post Date Time Displayed: 08/01/2023
+[2023-08-01 13:39:04,530] View_Post - Step 04: Verify Post Body : Selenium Page Body 32291
+[2023-08-01 13:39:04,582] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-08-01 13:39:04,635] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 32291
+[2023-08-01 13:39:06,441] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 32291
+[2023-08-01 13:39:06,508] View_Post - Step 08: Verify Detail Post Date Time Displayed: 08/01/2023
+[2023-08-01 13:39:06,561] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 32291
+[2023-08-01 13:39:06,616] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-01 13:39:06,674] Edit_Post - Step 01: Open Admin page site
+[2023-08-01 13:39:07,915] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 13:39:08,106] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 13:39:08,238] Pre-Condition - Step 03: Click to login button
+[2023-08-01 13:39:11,079] Edit_Post - Step 02: Click to Posts Menu
+[2023-08-01 13:39:13,183] Edit_Post - Step 03: Select Post Title in row by text
+[2023-08-01 13:39:16,483] Edit_Post - Step 04: Edit page title value is: Edit Selenium Page Title 32291
+[2023-08-01 13:39:17,362] Edit_Post - Step 05: Edit page body value is: Edit Selenium Page Body 32291
+[2023-08-01 13:39:47,561] OS name = windows 10
+[2023-08-01 13:39:47,561] Driver instance name = chromedriver: chrome on windows (4d8521e2724ce1f3332536869670dc5c)
+[2023-08-01 13:42:05,586] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 13:42:05,893] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 13:42:06,026] Pre-Condition - Step 03: Click to login button
+[2023-08-01 13:42:07,614] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-01 13:42:17,186] Create_New_Post - Step 02: Click to Add New button
+[2023-08-01 13:42:20,420] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 51158
+[2023-08-01 13:42:21,200] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 51158
+[2023-08-01 13:42:22,823] Create_New_Post - Step 05: Click to Publish button
+[2023-08-01 13:42:22,990] Create_New_Post - Step 06: Click to Re-publish button
+[2023-08-01 13:42:23,306] Create_New_Post - Step 07: Verify Published message displayed
+[2023-08-01 13:42:26,812] Search_Post - Step 01: Open Search Post page
+[2023-08-01 13:42:29,407] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 51158
+[2023-08-01 13:42:29,582] Search_Post - Step 03: Click to Search Posts button
+[2023-08-01 13:42:33,221] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-08-01 13:42:33,295] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-08-01 13:42:33,366] View_Post - Step 01: Open User page site
+[2023-08-01 13:42:35,276] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 51158
+[2023-08-01 13:42:35,342] View_Post - Step 03: Verify Post Date Time Displayed: 08/01/2023
+[2023-08-01 13:42:35,399] View_Post - Step 04: Verify Post Body : Selenium Page Body 51158
+[2023-08-01 13:42:35,449] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-08-01 13:42:35,500] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 51158
+[2023-08-01 13:42:37,214] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 51158
+[2023-08-01 13:42:37,277] View_Post - Step 08: Verify Detail Post Date Time Displayed: 08/01/2023
+[2023-08-01 13:42:37,328] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 51158
+[2023-08-01 13:42:37,378] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-01 13:42:37,436] Edit_Post - Step 01: Open Admin page site
+[2023-08-01 13:42:38,722] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 13:42:38,913] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 13:42:39,041] Pre-Condition - Step 03: Click to login button
+[2023-08-01 13:42:41,881] Edit_Post - Step 02: Click to Posts Menu
+[2023-08-01 13:42:43,901] Edit_Post - Step 03: Select Post Title in row by text
+[2023-08-01 13:42:47,271] Edit_Post - Step 04: Edit page title value is: Edit Selenium Page Title 51158
+[2023-08-01 13:42:48,104] Edit_Post - Step 05: Edit page body value is: Edit Selenium Page Body 51158
+[2023-08-01 13:43:18,327] OS name = windows 10
+[2023-08-01 13:43:18,327] Driver instance name = chromedriver: chrome on windows (62e2c13dc9015b5118b265088aaeb580)
+[2023-08-01 13:50:42,270] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 13:50:42,493] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 13:50:42,623] Pre-Condition - Step 03: Click to login button
+[2023-08-01 13:50:44,240] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-01 13:51:02,884] Create_New_Post - Step 02: Click to Add New button
+[2023-08-01 13:51:06,378] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 95602
+[2023-08-01 13:51:07,145] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 95602
+[2023-08-01 13:51:37,569] Search_Post - Step 01: Open Search Post page
+[2023-08-01 13:51:37,599] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 95602
+[2023-08-01 13:51:37,634] View_Post - Step 01: Open User page site
+[2023-08-01 13:51:37,666] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 95602
+[2023-08-01 13:51:37,705] Edit_Post - Step 01: Open Admin page site
+[2023-08-01 13:51:37,739] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 13:51:37,781] OS name = windows 10
+[2023-08-01 13:51:37,782] Driver instance name = chromedriver: chrome on windows (e4df83b1fb185cee52fcf23e8f86d1a6)
+[2023-08-01 13:53:33,762] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 13:53:34,078] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 13:53:34,203] Pre-Condition - Step 03: Click to login button
+[2023-08-01 13:53:35,830] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-01 13:53:47,613] Create_New_Post - Step 02: Click to Add New button
+[2023-08-01 13:53:51,242] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 90846
+[2023-08-01 13:53:52,095] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 90846
+[2023-08-01 13:54:22,774] Search_Post - Step 01: Open Search Post page
+[2023-08-01 13:54:22,806] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 90846
+[2023-08-01 13:54:22,839] View_Post - Step 01: Open User page site
+[2023-08-01 13:54:22,879] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 90846
+[2023-08-01 13:54:22,911] Edit_Post - Step 01: Open Admin page site
+[2023-08-01 13:54:22,946] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 13:54:22,993] OS name = windows 10
+[2023-08-01 13:54:22,994] Driver instance name = chromedriver: chrome on windows (4c0f766e315174e10f8429b61d9c5423)
+[2023-08-01 14:11:42,009] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 14:11:42,255] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 14:11:42,379] Pre-Condition - Step 03: Click to login button
+[2023-08-01 14:11:43,998] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-01 14:12:03,515] Create_New_Post - Step 02: Click to Add New button
+[2023-08-01 14:12:06,816] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 8927
+[2023-08-01 14:12:07,573] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 8927
+[2023-08-01 14:12:38,031] Search_Post - Step 01: Open Search Post page
+[2023-08-01 14:12:38,060] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 8927
+[2023-08-01 14:12:38,088] View_Post - Step 01: Open User page site
+[2023-08-01 14:12:38,113] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 8927
+[2023-08-01 14:12:38,142] Edit_Post - Step 01: Open Admin page site
+[2023-08-01 14:12:38,173] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 14:12:38,213] OS name = windows 10
+[2023-08-01 14:12:38,213] Driver instance name = chromedriver: chrome on windows (174be2fc3b7597e1b849cd9216a44b15)
+[2023-08-01 14:18:22,279] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 14:18:22,489] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 14:18:22,629] Pre-Condition - Step 03: Click to login button
+[2023-08-01 14:18:24,589] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-01 14:18:36,648] Create_New_Post - Step 02: Click to Add New button
+[2023-08-01 14:18:40,079] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 22593
+[2023-08-01 14:18:40,888] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 22593
+[2023-08-01 14:18:42,344] Create_New_Post - Step 05: Click to Publish button
+[2023-08-01 14:18:42,549] Create_New_Post - Step 06: Click to Re-publish button
+[2023-08-01 14:18:42,908] Create_New_Post - Step 07: Verify Published message displayed
+[2023-08-01 14:18:46,403] Search_Post - Step 01: Open Search Post page
+[2023-08-01 14:18:48,967] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 22593
+[2023-08-01 14:18:49,121] Search_Post - Step 03: Click to Search Posts button
+[2023-08-01 14:18:51,784] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-08-01 14:18:51,859] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-08-01 14:18:51,930] View_Post - Step 01: Open User page site
+[2023-08-01 14:18:54,015] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 22593
+[2023-08-01 14:18:54,082] View_Post - Step 03: Verify Post Date Time Displayed: 08/01/2023
+[2023-08-01 14:18:54,133] View_Post - Step 04: Verify Post Body : Selenium Page Body 22593
+[2023-08-01 14:18:54,186] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-08-01 14:18:54,235] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 22593
+[2023-08-01 14:18:56,079] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 22593
+[2023-08-01 14:18:56,141] View_Post - Step 08: Verify Detail Post Date Time Displayed: 08/01/2023
+[2023-08-01 14:18:56,197] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 22593
+[2023-08-01 14:18:56,249] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-01 14:18:56,307] Edit_Post - Step 01: Open Admin page site
+[2023-08-01 14:18:57,542] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 14:18:57,733] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 14:18:57,865] Pre-Condition - Step 03: Click to login button
+[2023-08-01 14:19:00,707] Edit_Post - Step 02: Click to Posts Menu
+[2023-08-01 14:19:02,581] Edit_Post - Step 03: Select Post Title in row by text
+[2023-08-01 14:19:05,912] Edit_Post - Step 04: Edit page title value is: Edit Selenium Page Title 22593
+[2023-08-01 14:19:06,760] Edit_Post - Step 05: Edit page body value is: Edit Selenium Page Body 22593
+[2023-08-01 14:19:08,298] Edit_Post - Step 06: Click to update button
+[2023-08-01 14:19:38,383] OS name = windows 10
+[2023-08-01 14:19:38,383] Driver instance name = chromedriver: chrome on windows (059db019be1e355978bc7dc32dc9f96c)
+[2023-08-01 14:27:08,870] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 14:27:09,124] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 14:27:09,248] Pre-Condition - Step 03: Click to login button
+[2023-08-01 14:27:11,087] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-01 14:27:45,299] Create_New_Post - Step 02: Click to Add New button
+[2023-08-01 14:27:48,472] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 63084
+[2023-08-01 14:27:49,201] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 63084
+[2023-08-01 14:27:50,520] Create_New_Post - Step 05: Click to Publish button
+[2023-08-01 14:27:50,693] Create_New_Post - Step 06: Click to Re-publish button
+[2023-08-01 14:27:50,965] Create_New_Post - Step 07: Verify Published message displayed
+[2023-08-01 14:27:54,603] Search_Post - Step 01: Open Search Post page
+[2023-08-01 14:27:57,144] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 63084
+[2023-08-01 14:27:57,310] Search_Post - Step 03: Click to Search Posts button
+[2023-08-01 14:27:59,918] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-08-01 14:27:59,990] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-08-01 14:28:00,064] View_Post - Step 01: Open User page site
+[2023-08-01 14:28:01,946] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 63084
+[2023-08-01 14:28:02,013] View_Post - Step 03: Verify Post Date Time Displayed: 08/01/2023
+[2023-08-01 14:28:02,069] View_Post - Step 04: Verify Post Body : Selenium Page Body 63084
+[2023-08-01 14:28:02,122] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-08-01 14:28:02,174] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 63084
+[2023-08-01 14:28:03,854] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 63084
+[2023-08-01 14:28:03,921] View_Post - Step 08: Verify Detail Post Date Time Displayed: 08/01/2023
+[2023-08-01 14:28:03,972] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 63084
+[2023-08-01 14:28:04,029] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-01 14:28:04,092] Edit_Post - Step 01: Open Admin page site
+[2023-08-01 14:28:05,341] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 14:28:05,534] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 14:28:05,668] Pre-Condition - Step 03: Click to login button
+[2023-08-01 14:28:08,579] Edit_Post - Step 02: Click to Posts Menu
+[2023-08-01 14:28:10,489] Edit_Post - Step 03: Select Post Title in row by text
+[2023-08-01 14:28:13,743] Edit_Post - Step 04: Edit page title value is: Edit Selenium Page Title 63084
+[2023-08-01 14:28:14,618] Edit_Post - Step 05: Edit page body value is: Edit Selenium Page Body 63084
+[2023-08-01 14:28:16,266] Edit_Post - Step 06: Click to update button
+[2023-08-01 14:28:16,579] Edit_Post - Step 07: Verify update success message
+[2023-08-01 14:28:18,363] Edit_Post - Step 08: Navigate to Post Menu
+[2023-08-01 14:28:20,986] Edit_Post - Step 09: Enter to Search TextBox value: Edit Selenium Page Title 63084
+[2023-08-01 14:28:21,157] Edit_Post - Step 10: Click to Search Posts button
+[2023-08-01 14:28:23,898] Edit_Post - Step 11: Verify Author displayed is: tnpromax
+[2023-08-01 14:28:23,971] Edit_Post - Step 12: Verify Categories displayed are: Uncategorized
+[2023-08-01 14:28:24,036] Edit_Post - Step 13: Open User page site
+[2023-08-01 14:28:25,503] Edit_Post - Step 14: Verify Post Title Displayed: Edit Selenium Page Title 63084
+[2023-08-01 14:28:25,565] Edit_Post - Step 15: Verify Post Date Time Displayed: 08/01/2023
+[2023-08-01 14:28:25,616] Edit_Post - Step 16: Verify Post Body : Selenium Page Body 63084
+[2023-08-01 14:28:55,699] OS name = windows 10
+[2023-08-01 14:28:55,699] Driver instance name = chromedriver: chrome on windows (61db5c279e903d067f642b55a10fed95)
+[2023-08-01 14:29:50,596] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 14:29:50,841] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 14:29:50,966] Pre-Condition - Step 03: Click to login button
+[2023-08-01 14:29:52,546] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-01 14:30:13,940] Create_New_Post - Step 02: Click to Add New button
+[2023-08-01 14:30:17,611] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 61142
+[2023-08-01 14:30:18,442] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 61142
+[2023-08-01 14:30:19,942] Create_New_Post - Step 05: Click to Publish button
+[2023-08-01 14:30:20,181] Create_New_Post - Step 06: Click to Re-publish button
+[2023-08-01 14:30:21,261] Create_New_Post - Step 07: Verify Published message displayed
+[2023-08-01 14:30:24,130] Search_Post - Step 01: Open Search Post page
+[2023-08-01 14:30:26,692] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 61142
+[2023-08-01 14:30:26,848] Search_Post - Step 03: Click to Search Posts button
+[2023-08-01 14:30:29,632] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-08-01 14:30:29,708] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-08-01 14:30:29,779] View_Post - Step 01: Open User page site
+[2023-08-01 14:30:32,751] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 61142
+[2023-08-01 14:30:32,816] View_Post - Step 03: Verify Post Date Time Displayed: 08/01/2023
+[2023-08-01 14:30:32,866] View_Post - Step 04: Verify Post Body : Selenium Page Body 61142
+[2023-08-01 14:30:32,920] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-08-01 14:30:32,976] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 61142
+[2023-08-01 14:30:34,810] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 61142
+[2023-08-01 14:30:34,875] View_Post - Step 08: Verify Detail Post Date Time Displayed: 08/01/2023
+[2023-08-01 14:30:34,929] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 61142
+[2023-08-01 14:30:34,982] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-01 14:30:35,041] Edit_Post - Step 01: Open Admin page site
+[2023-08-01 14:30:36,272] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-01 14:30:36,475] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-01 14:30:36,601] Pre-Condition - Step 03: Click to login button
+[2023-08-01 14:30:39,626] Edit_Post - Step 02: Click to Posts Menu
+[2023-08-01 14:30:41,251] Edit_Post - Step 03: Select Post Title in row by text
+[2023-08-01 14:30:44,508] Edit_Post - Step 04: Edit page title value is: Edit Selenium Page Title 61142
+[2023-08-01 14:30:45,465] Edit_Post - Step 05: Edit page body value is: Edit Selenium Page Body 61142
+[2023-08-01 14:30:47,243] Edit_Post - Step 06: Click to update button
+[2023-08-01 14:30:48,065] Edit_Post - Step 07: Verify update success message
+[2023-08-01 14:30:49,711] Edit_Post - Step 08: Navigate to Post Menu
+[2023-08-01 14:30:52,258] Edit_Post - Step 09: Enter to Search TextBox value: Edit Selenium Page Title 61142
+[2023-08-01 14:30:52,421] Edit_Post - Step 10: Click to Search Posts button
+[2023-08-01 14:30:55,139] Edit_Post - Step 11: Verify Author displayed is: tnpromax
+[2023-08-01 14:30:55,209] Edit_Post - Step 12: Verify Categories displayed are: Uncategorized
+[2023-08-01 14:30:55,271] Edit_Post - Step 13: Open User page site
+[2023-08-01 14:30:56,754] Edit_Post - Step 14: Verify Post Title Displayed: Edit Selenium Page Title 61142
+[2023-08-01 14:30:56,813] Edit_Post - Step 15: Verify Post Date Time Displayed: 08/01/2023
+[2023-08-01 14:30:56,860] Edit_Post - Step 16: Verify Post Body : Edit Selenium Page Body 61142
+[2023-08-01 14:30:56,910] Edit_Post - Step 17: Verify Post By Author Displayed: tnpromax
+[2023-08-01 14:30:56,963] Edit_Post - Step 18: Click to Title Post & navigate to detail post value: Edit Selenium Page Title 61142
+[2023-08-01 14:30:58,465] Edit_Post - Step 19: Verify Detail Post Title Displayed: Edit Selenium Page Title 61142
+[2023-08-01 14:30:58,529] Edit_Post - Step 20: Verify Detail Post Date Time Displayed: 08/01/2023
+[2023-08-01 14:30:58,578] Edit_Post - Step 21: Verify Detail Post Body: Edit Selenium Page Body 61142
+[2023-08-01 14:30:58,628] Edit_Post - Step 22: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-01 14:30:58,693] OS name = windows 10
+[2023-08-01 14:30:58,693] Driver instance name = chromedriver: chrome on windows (3719740ed0b71c64bc6ef11e1f5ca873)
+[2023-08-02 14:48:06,694] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-02 14:48:06,971] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-02 14:48:07,104] Pre-Condition - Step 03: Click to login button
+[2023-08-02 14:48:09,480] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-02 14:48:40,169] Create_New_Post - Step 02: Click to Add New button
+[2023-08-02 14:48:51,024] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 60066
+[2023-08-02 14:48:51,858] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 60066
+[2023-08-02 14:48:53,212] Create_New_Post - Step 05: Click to Publish button
+[2023-08-02 14:48:53,409] Create_New_Post - Step 06: Click to Re-publish button
+[2023-08-02 14:48:53,678] Create_New_Post - Step 07: Verify Published message displayed
+[2023-08-02 14:48:57,255] Search_Post - Step 01: Open Search Post page
+[2023-08-02 14:48:58,852] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 60066
+[2023-08-02 14:48:59,029] Search_Post - Step 03: Click to Search Posts button
+[2023-08-02 14:49:01,784] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-08-02 14:49:01,864] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-08-02 14:49:01,969] View_Post - Step 01: Open User page site
+[2023-08-02 14:49:03,707] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 60066
+[2023-08-02 14:49:03,772] View_Post - Step 03: Verify Post Date Time Displayed: 08/02/2023
+[2023-08-02 14:49:03,825] View_Post - Step 04: Verify Post Body : Selenium Page Body 60066
+[2023-08-02 14:49:03,879] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-08-02 14:49:03,932] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 60066
+[2023-08-02 14:49:05,780] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 60066
+[2023-08-02 14:49:05,853] View_Post - Step 08: Verify Detail Post Date Time Displayed: 08/02/2023
+[2023-08-02 14:49:05,910] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 60066
+[2023-08-02 14:49:05,964] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-02 14:49:06,030] Edit_Post - Step 01: Open Admin page site
+[2023-08-02 14:49:07,461] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-02 14:49:07,657] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-02 14:49:07,793] Pre-Condition - Step 03: Click to login button
+[2023-08-02 14:49:10,647] Edit_Post - Step 02: Click to Posts Menu
+[2023-08-02 14:49:12,319] Edit_Post - Step 03: Select Post Title in row by text
+[2023-08-02 14:49:16,015] Edit_Post - Step 04: Edit page title value is: Edit Selenium Page Title 60066
+[2023-08-02 14:49:16,850] Edit_Post - Step 05: Edit page body value is: Edit Selenium Page Body 60066
+[2023-08-02 14:49:18,404] Edit_Post - Step 06: Click to update button
+[2023-08-02 14:49:18,679] Edit_Post - Step 07: Verify update success message
+[2023-08-02 14:49:20,542] Edit_Post - Step 08: Navigate to Post Menu
+[2023-08-02 14:49:23,020] Edit_Post - Step 09: Enter to Search TextBox value: Edit Selenium Page Title 60066
+[2023-08-02 14:49:23,197] Edit_Post - Step 10: Click to Search Posts button
+[2023-08-02 14:49:25,930] Edit_Post - Step 11: Verify Author displayed is: tnpromax
+[2023-08-02 14:49:25,998] Edit_Post - Step 12: Verify Categories displayed are: Uncategorized
+[2023-08-02 14:49:26,071] Edit_Post - Step 13: Open User page site
+[2023-08-02 14:49:27,534] Edit_Post - Step 14: Verify Post Title Displayed: Edit Selenium Page Title 60066
+[2023-08-02 14:49:27,600] Edit_Post - Step 15: Verify Post Date Time Displayed: 08/02/2023
+[2023-08-02 14:49:27,650] Edit_Post - Step 16: Verify Post Body : Edit Selenium Page Body 60066
+[2023-08-02 14:49:27,700] Edit_Post - Step 17: Verify Post By Author Displayed: tnpromax
+[2023-08-02 14:49:27,750] Edit_Post - Step 18: Click to Title Post & navigate to detail post value: Edit Selenium Page Title 60066
+[2023-08-02 14:49:29,233] Edit_Post - Step 19: Verify Detail Post Title Displayed: Edit Selenium Page Title 60066
+[2023-08-02 14:49:29,296] Edit_Post - Step 20: Verify Detail Post Date Time Displayed: 08/02/2023
+[2023-08-02 14:49:29,346] Edit_Post - Step 21: Verify Detail Post Body: Edit Selenium Page Body 60066
+[2023-08-02 14:49:29,398] Edit_Post - Step 22: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-02 14:49:29,455] Delete_Post - Step 01: Open Admin page site
+[2023-08-02 14:49:30,734] Delete_Post - Step 02: Enter to Username TextBox value: tnpromax
+[2023-08-02 14:49:30,925] Delete_Post - Step 03: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-02 14:49:31,061] Delete_Post - Step 04: Click to login button
+[2023-08-02 14:49:33,918] Delete_Post - Step 05: Click to Posts Menu
+[2023-08-02 14:49:35,594] Delete_Post - Step 05: Select Posts By Title
+[2023-08-02 14:49:35,595] Delete_Post - Step 05: Select 
+[2023-08-02 14:57:00,044] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-02 14:57:00,398] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-02 14:57:00,551] Pre-Condition - Step 03: Click to login button
+[2023-08-02 14:57:02,364] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-02 14:57:14,487] Create_New_Post - Step 02: Click to Add New button
+[2023-08-02 14:57:17,741] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 71384
+[2023-08-02 14:57:18,492] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 71384
+[2023-08-02 14:57:19,901] Create_New_Post - Step 05: Click to Publish button
+[2023-08-02 14:57:20,114] Create_New_Post - Step 06: Click to Re-publish button
+[2023-08-02 14:57:20,397] Create_New_Post - Step 07: Verify Published message displayed
+[2023-08-02 14:57:23,866] Search_Post - Step 01: Open Search Post page
+[2023-08-02 14:57:25,424] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 71384
+[2023-08-02 14:57:25,605] Search_Post - Step 03: Click to Search Posts button
+[2023-08-02 14:57:28,393] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-08-02 14:57:28,469] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-08-02 14:57:28,544] View_Post - Step 01: Open User page site
+[2023-08-02 14:57:30,257] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 71384
+[2023-08-02 14:57:30,324] View_Post - Step 03: Verify Post Date Time Displayed: 08/02/2023
+[2023-08-02 14:57:30,376] View_Post - Step 04: Verify Post Body : Selenium Page Body 71384
+[2023-08-02 14:57:30,434] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-08-02 14:57:30,488] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 71384
+[2023-08-02 14:57:32,279] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 71384
+[2023-08-02 14:57:32,347] View_Post - Step 08: Verify Detail Post Date Time Displayed: 08/02/2023
+[2023-08-02 14:57:32,401] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 71384
+[2023-08-02 14:57:32,452] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-02 14:57:32,514] Edit_Post - Step 01: Open Admin page site
+[2023-08-02 14:57:33,810] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-02 14:57:33,994] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-02 14:57:34,131] Pre-Condition - Step 03: Click to login button
+[2023-08-02 14:57:37,005] Edit_Post - Step 02: Click to Posts Menu
+[2023-08-02 14:57:38,949] Edit_Post - Step 03: Select Post Title in row by text
+[2023-08-02 14:57:42,141] Edit_Post - Step 04: Edit page title value is: Edit Selenium Page Title 71384
+[2023-08-02 14:57:42,975] Edit_Post - Step 05: Edit page body value is: Edit Selenium Page Body 71384
+[2023-08-02 14:57:44,593] Edit_Post - Step 06: Click to update button
+[2023-08-02 14:57:44,868] Edit_Post - Step 07: Verify update success message
+[2023-08-02 14:57:46,739] Edit_Post - Step 08: Navigate to Post Menu
+[2023-08-02 14:57:49,225] Edit_Post - Step 09: Enter to Search TextBox value: Edit Selenium Page Title 71384
+[2023-08-02 14:57:49,398] Edit_Post - Step 10: Click to Search Posts button
+[2023-08-02 14:57:52,093] Edit_Post - Step 11: Verify Author displayed is: tnpromax
+[2023-08-02 14:57:52,177] Edit_Post - Step 12: Verify Categories displayed are: Uncategorized
+[2023-08-02 14:57:52,248] Edit_Post - Step 13: Open User page site
+[2023-08-02 14:57:53,754] Edit_Post - Step 14: Verify Post Title Displayed: Edit Selenium Page Title 71384
+[2023-08-02 14:57:53,822] Edit_Post - Step 15: Verify Post Date Time Displayed: 08/02/2023
+[2023-08-02 14:57:53,873] Edit_Post - Step 16: Verify Post Body : Edit Selenium Page Body 71384
+[2023-08-02 14:57:53,923] Edit_Post - Step 17: Verify Post By Author Displayed: tnpromax
+[2023-08-02 14:57:53,978] Edit_Post - Step 18: Click to Title Post & navigate to detail post value: Edit Selenium Page Title 71384
+[2023-08-02 14:57:55,513] Edit_Post - Step 19: Verify Detail Post Title Displayed: Edit Selenium Page Title 71384
+[2023-08-02 14:57:55,575] Edit_Post - Step 20: Verify Detail Post Date Time Displayed: 08/02/2023
+[2023-08-02 14:57:55,624] Edit_Post - Step 21: Verify Detail Post Body: Edit Selenium Page Body 71384
+[2023-08-02 14:57:55,669] Edit_Post - Step 22: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-02 14:57:55,723] Delete_Post - Step 01: Open Admin page site
+[2023-08-02 14:57:56,932] Delete_Post - Step 02: Enter to Username TextBox value: tnpromax
+[2023-08-02 14:57:57,115] Delete_Post - Step 03: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-02 14:57:57,254] Delete_Post - Step 04: Click to login button
+[2023-08-02 14:58:00,223] Delete_Post - Step 05: Click to Posts Menu
+[2023-08-02 14:58:01,940] Delete_Post - Step 06: Select Posts By Title value: Edit Selenium Page Title 71384
+[2023-08-02 14:58:02,071] Delete_Post - Step 07: Select Dropdown list action by Text: Move to Trash
+[2023-08-02 14:58:02,207] Delete_Post - Step 08: Click to Apply button
+[2023-08-02 14:58:05,014] Delete_Post - Step 09: Verify 'post moved to the Trash' message displayed
+[2023-08-02 14:58:05,070] Delete_Post - Step 10: Open User page site
+[2023-08-02 14:58:06,537] Delete_Post - Step 11: Enter to title page edited into Search products value: Edit Selenium Page Title 71384
+[2023-08-02 14:58:36,585] OS name = windows 10
+[2023-08-02 14:58:36,586] Driver instance name = chromedriver: chrome on windows (a79c30fd7e130e256a5fa2d2bed765bd)
+[2023-08-02 15:00:55,762] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-02 15:00:55,992] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-02 15:00:56,185] Pre-Condition - Step 03: Click to login button
+[2023-08-02 15:00:58,090] Create_New_Post - Step 01: Click to Posts menu sidebar
+[2023-08-02 15:01:11,608] Create_New_Post - Step 02: Click to Add New button
+[2023-08-02 15:01:14,827] Create_New_Post - Step 03: Enter New Post title value: Selenium Page Title 44205
+[2023-08-02 15:01:15,621] Create_New_Post - Step 04: Enter New Post body value: Selenium Page Body 44205
+[2023-08-02 15:01:16,942] Create_New_Post - Step 05: Click to Publish button
+[2023-08-02 15:01:17,152] Create_New_Post - Step 06: Click to Re-publish button
+[2023-08-02 15:01:17,441] Create_New_Post - Step 07: Verify Published message displayed
+[2023-08-02 15:01:20,936] Search_Post - Step 01: Open Search Post page
+[2023-08-02 15:01:22,551] Search_Post - Step 02: Enter to Search TextBox value: Selenium Page Title 44205
+[2023-08-02 15:01:22,736] Search_Post - Step 03: Click to Search Posts button
+[2023-08-02 15:01:25,492] Search_Post - Step 04: Verify Author displayed is: tnpromax
+[2023-08-02 15:01:25,570] Search_Post - Step 05: Verify Categories displayed are: Uncategorized
+[2023-08-02 15:01:25,644] View_Post - Step 01: Open User page site
+[2023-08-02 15:01:27,389] View_Post - Step 02: Verify Post Title Displayed: Selenium Page Title 44205
+[2023-08-02 15:01:27,462] View_Post - Step 03: Verify Post Date Time Displayed: 08/02/2023
+[2023-08-02 15:01:27,517] View_Post - Step 04: Verify Post Body : Selenium Page Body 44205
+[2023-08-02 15:01:27,569] View_Post - Step 05: Verify Post By Author Displayed: tnpromax
+[2023-08-02 15:01:27,623] View_Post - Step 06: Click to Title Post & navigate to detail post value: Selenium Page Title 44205
+[2023-08-02 15:01:29,448] View_Post - Step 07: Verify Detail Post Title Displayed: Selenium Page Title 44205
+[2023-08-02 15:01:29,519] View_Post - Step 08: Verify Detail Post Date Time Displayed: 08/02/2023
+[2023-08-02 15:01:29,571] View_Post - Step 09: Verify Detail Post Body: Selenium Page Body 44205
+[2023-08-02 15:01:29,625] View_Post - Step 10: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-02 15:01:29,684] Edit_Post - Step 01: Open Admin page site
+[2023-08-02 15:01:32,346] Pre-Condition - Step 01: Enter to Username TextBox value: tnpromax
+[2023-08-02 15:01:32,562] Pre-Condition - Step 02: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-02 15:01:32,712] Pre-Condition - Step 03: Click to login button
+[2023-08-02 15:01:35,597] Edit_Post - Step 02: Click to Posts Menu
+[2023-08-02 15:01:37,519] Edit_Post - Step 03: Select Post Title in row by text
+[2023-08-02 15:01:40,657] Edit_Post - Step 04: Edit page title value is: Edit Selenium Page Title 44205
+[2023-08-02 15:01:41,505] Edit_Post - Step 05: Edit page body value is: Edit Selenium Page Body 44205
+[2023-08-02 15:01:43,110] Edit_Post - Step 06: Click to update button
+[2023-08-02 15:01:43,963] Edit_Post - Step 07: Verify update success message
+[2023-08-02 15:01:45,616] Edit_Post - Step 08: Navigate to Post Menu
+[2023-08-02 15:01:48,111] Edit_Post - Step 09: Enter to Search TextBox value: Edit Selenium Page Title 44205
+[2023-08-02 15:01:48,288] Edit_Post - Step 10: Click to Search Posts button
+[2023-08-02 15:01:50,959] Edit_Post - Step 11: Verify Author displayed is: tnpromax
+[2023-08-02 15:01:51,030] Edit_Post - Step 12: Verify Categories displayed are: Uncategorized
+[2023-08-02 15:01:51,094] Edit_Post - Step 13: Open User page site
+[2023-08-02 15:01:52,564] Edit_Post - Step 14: Verify Post Title Displayed: Edit Selenium Page Title 44205
+[2023-08-02 15:01:52,628] Edit_Post - Step 15: Verify Post Date Time Displayed: 08/02/2023
+[2023-08-02 15:01:52,678] Edit_Post - Step 16: Verify Post Body : Edit Selenium Page Body 44205
+[2023-08-02 15:01:52,728] Edit_Post - Step 17: Verify Post By Author Displayed: tnpromax
+[2023-08-02 15:01:52,781] Edit_Post - Step 18: Click to Title Post & navigate to detail post value: Edit Selenium Page Title 44205
+[2023-08-02 15:01:54,262] Edit_Post - Step 19: Verify Detail Post Title Displayed: Edit Selenium Page Title 44205
+[2023-08-02 15:01:54,323] Edit_Post - Step 20: Verify Detail Post Date Time Displayed: 08/02/2023
+[2023-08-02 15:01:54,374] Edit_Post - Step 21: Verify Detail Post Body: Edit Selenium Page Body 44205
+[2023-08-02 15:01:54,423] Edit_Post - Step 22: Verify Detail Post By Author Displayed: tnpromax
+[2023-08-02 15:01:54,481] Delete_Post - Step 01: Open Admin page site
+[2023-08-02 15:01:55,698] Delete_Post - Step 02: Enter to Username TextBox value: tnpromax
+[2023-08-02 15:01:55,893] Delete_Post - Step 03: Enter to Password TextBox value: *v^w#*3vEWsh&gdsLw
+[2023-08-02 15:01:56,029] Delete_Post - Step 04: Click to login button
+[2023-08-02 15:01:58,902] Delete_Post - Step 05: Click to Posts Menu
+[2023-08-02 15:02:00,592] Delete_Post - Step 06: Select Posts By Title value: Edit Selenium Page Title 44205
+[2023-08-02 15:02:00,719] Delete_Post - Step 07: Select Dropdown list action by Text: Move to Trash
+[2023-08-02 15:02:00,849] Delete_Post - Step 08: Click to Apply button
+[2023-08-02 15:02:03,796] Delete_Post - Step 09: Verify 'post moved to the Trash' message displayed
+[2023-08-02 15:02:03,884] Delete_Post - Step 10: Open User page site
+[2023-08-02 15:02:05,416] Delete_Post - Step 11: Enter to title page edited into Search products value: Edit Selenium Page Title 44205
+[2023-08-02 15:02:05,587] Delete_Post - Step 12: Click to search button
+[2023-08-02 15:02:07,122] Delete_Post - Step 13: Verify user search result displayed value: 
+[2023-08-02 15:02:07,191] OS name = windows 10
+[2023-08-02 15:02:07,191] Driver instance name = chromedriver: chrome on windows (c9784423f94918c254a12b700f23bcfc)
+[2023-08-04 09:13:06,236] Register Account - Step 01: Click to register button
+[2023-08-04 09:13:07,294] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 09:13:07,405] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 09:13:07,526] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 09:13:07,636] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 09:13:07,741] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 09:13:07,827] Register Account - Step 07: Input into FirstName textbox value is: Laurence
+[2023-08-04 09:13:07,964] Register Account - Step 08: Input into LastName textbox value is: Prosacco
+[2023-08-04 09:13:08,087] Register Account - Step 09: Input into Email textbox value is: verdell.weber@gmail.com
+[2023-08-04 09:13:08,218] Register Account - Step 10: Input into Password textbox value is: k06isxef1
+[2023-08-04 09:13:08,341] Register Account - Step 11: Input into Confirm Password textbox value is: k06isxef1
+[2023-08-04 09:13:08,465] Register Account - Step 07: Click to register button
+[2023-08-04 09:13:09,213] Register Account - Step 08: Verify register message success
+[2023-08-04 09:13:09,351] Login Account - Step 01: Click to login button
+[2023-08-04 09:13:09,767] Login Account - Step 02: Input to email address value is: verdell.weber@gmail.com
+[2023-08-04 09:13:09,890] Login Account - Step 03: Input to email password value is:k06isxef1
+[2023-08-04 09:13:10,009] Login Account - Step 04: Click to login button
+[2023-08-04 09:13:10,742] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 09:13:10,788] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 09:13:11,229] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 09:13:11,293] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 09:13:11,342] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 09:13:11,392] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 09:13:11,440] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 09:13:11,491] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 09:13:11,658] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 09:13:11,802] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 09:13:12,399] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 09:13:12,442] OS name = windows 10
+[2023-08-04 09:13:12,443] Driver instance name = chromedriver: chrome on windows (af23a629038268c01a700f03909816c2)
+[2023-08-04 09:45:49,451] Register Account - Step 01: Click to register button
+[2023-08-04 09:45:50,465] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 09:45:50,580] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 09:45:50,706] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 09:45:50,820] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 09:45:50,932] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 09:45:51,022] Register Account - Step 07: Input into FirstName textbox value is: Automation
+[2023-08-04 09:45:51,166] Register Account - Step 08: Input into LastName textbox value is: FC
+[2023-08-04 09:45:51,287] Register Account - Step 09: Input into Email textbox value is: alsdaskld@gmail.com
+[2023-08-04 09:45:51,427] Register Account - Step 10: Input into Password textbox value is: 123456
+[2023-08-04 09:45:51,551] Register Account - Step 11: Input into Confirm Password textbox value is: 123456
+[2023-08-04 09:45:51,671] Register Account - Step 07: Click to register button
+[2023-08-04 09:45:52,436] Register Account - Step 08: Verify register message success
+[2023-08-04 09:45:52,564] Login Account - Step 01: Click to login button
+[2023-08-04 09:45:52,967] Login Account - Step 02: Input to email address value is: alsdaskld@gmail.com
+[2023-08-04 09:45:53,085] Login Account - Step 03: Input to email password value is:123456
+[2023-08-04 09:45:53,213] Login Account - Step 04: Click to login button
+[2023-08-04 09:45:53,957] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 09:45:54,005] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 09:45:54,421] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 09:45:54,480] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 09:45:54,528] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 09:45:54,569] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 09:45:54,612] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 09:45:54,653] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 09:45:54,825] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 09:45:54,974] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 09:45:55,701] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 09:45:55,743] OS name = windows 10
+[2023-08-04 09:45:55,744] Driver instance name = chromedriver: chrome on windows (d083e712911875677b036977c00ee55a)
+[2023-08-04 09:47:26,789] Register Account - Step 01: Click to register button
+[2023-08-04 09:47:27,849] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 09:47:27,962] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 09:47:28,091] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 09:47:28,204] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 09:47:28,311] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 09:47:28,401] Register Account - Step 07: Input into FirstName textbox value is: Dana
+[2023-08-04 09:47:28,545] Register Account - Step 08: Input into LastName textbox value is: Predovic
+[2023-08-04 09:47:28,669] Register Account - Step 09: Input into Email textbox value is: jaime.kessler@yahoo.com
+[2023-08-04 09:47:28,804] Register Account - Step 10: Input into Password textbox value is: 36wm8y8fxmn3w0
+[2023-08-04 09:47:28,934] Register Account - Step 11: Input into Confirm Password textbox value is: 36wm8y8fxmn3w0
+[2023-08-04 09:47:29,067] Register Account - Step 07: Click to register button
+[2023-08-04 09:47:29,811] Register Account - Step 08: Verify register message success
+[2023-08-04 09:47:29,938] Login Account - Step 01: Click to login button
+[2023-08-04 09:47:30,378] Login Account - Step 02: Input to email address value is: jaime.kessler@yahoo.com
+[2023-08-04 09:47:30,496] Login Account - Step 03: Input to email password value is:36wm8y8fxmn3w0
+[2023-08-04 09:47:30,624] Login Account - Step 04: Click to login button
+[2023-08-04 09:47:31,340] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 09:47:31,389] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 09:47:31,794] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 09:47:31,855] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 09:47:31,903] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 09:47:31,946] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 09:47:31,991] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 09:47:32,034] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 09:47:32,203] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 09:47:32,349] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 09:47:32,967] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 09:47:33,010] OS name = windows 10
+[2023-08-04 09:47:33,010] Driver instance name = chromedriver: chrome on windows (166ba93a61d2cf119d1cea1b76a10d7b)
+[2023-08-04 10:19:03,441] Register Account - Step 01: Click to register button
+[2023-08-04 10:19:04,469] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 10:19:04,589] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 10:19:04,720] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 10:19:04,832] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 10:19:04,937] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 10:19:05,027] Register Account - Step 07: Input into FirstName textbox value is: Marla
+[2023-08-04 10:19:05,164] Register Account - Step 08: Input into LastName textbox value is: Waelchi
+[2023-08-04 10:19:05,289] Register Account - Step 09: Input into Email textbox value is: stacia.hansen@gmail.com
+[2023-08-04 10:19:05,422] Register Account - Step 10: Input into Password textbox value is: d0cisue5x
+[2023-08-04 10:19:05,551] Register Account - Step 11: Input into Confirm Password textbox value is: d0cisue5x
+[2023-08-04 10:19:05,676] Register Account - Step 07: Click to register button
+[2023-08-04 10:19:06,906] Register Account - Step 08: Verify register message success
+[2023-08-04 10:19:07,041] Login Account - Step 01: Click to login button
+[2023-08-04 10:19:07,454] Login Account - Step 02: Input to email address value is: stacia.hansen@gmail.com
+[2023-08-04 10:19:07,575] Login Account - Step 03: Input to email password value is:d0cisue5x
+[2023-08-04 10:19:07,699] Login Account - Step 04: Click to login button
+[2023-08-04 10:19:08,395] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 10:19:08,443] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 10:19:08,846] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 10:19:08,904] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 10:19:08,950] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 10:19:08,994] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 10:19:09,038] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 10:19:09,078] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 10:19:09,249] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 10:19:09,392] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 10:19:10,004] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 10:19:10,049] OS name = windows 10
+[2023-08-04 10:19:10,049] Driver instance name = chromedriver: chrome on windows (4c0eee7c39466ec01ac07a183e92ddac)
+[2023-08-04 10:39:06,424] Register Account - Step 01: Click to register button
+[2023-08-04 10:39:13,307] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 10:39:13,422] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 10:39:13,554] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 10:39:13,666] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 10:39:13,771] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 10:39:13,929] Login Account - Step 01: Click to login button
+[2023-08-04 10:39:14,358] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 10:39:14,363] OS name = windows 10
+[2023-08-04 10:39:14,364] Driver instance name = chromedriver: chrome on windows (c24d09b00014a07192b185d110085c47)
+[2023-08-04 10:54:03,090] Register Account - Step 01: Click to register button
+[2023-08-04 10:54:04,156] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 10:54:04,268] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 10:54:04,395] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 10:54:04,508] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 10:54:04,616] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 10:54:04,773] Login Account - Step 01: Click to login button
+[2023-08-04 10:54:05,209] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 10:54:05,215] OS name = windows 10
+[2023-08-04 10:54:05,215] Driver instance name = chromedriver: chrome on windows (a1b05b08bfad45cbde475cc1e318eed0)
+[2023-08-04 10:55:11,363] Register Account - Step 01: Click to register button
+[2023-08-04 10:55:12,434] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 10:55:12,547] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 10:55:12,674] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 10:55:12,787] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 10:55:12,894] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 10:55:12,982] Register Account - Step 07: Input into FirstName textbox value is: Tan Tan
+[2023-08-04 10:55:13,125] Register Account - Step 08: Input into LastName textbox value is: Tran
+[2023-08-04 10:55:13,247] Register Account - Step 09: Input into Email textbox value is: automation@gmail.com
+[2023-08-04 10:55:13,379] Register Account - Step 10: Input into Password textbox value is: null
+[2023-08-04 10:55:13,505] Login Account - Step 01: Click to login button
+[2023-08-04 10:55:13,938] Login Account - Step 02: Input to email address value is: automation@gmail.com
+[2023-08-04 10:55:14,057] Login Account - Step 03: Input to email password value is:null
+[2023-08-04 10:55:14,128] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 10:55:14,134] OS name = windows 10
+[2023-08-04 10:55:14,134] Driver instance name = chromedriver: chrome on windows (0f07f60c0482b50ad2dae061f7ebb870)
+[2023-08-04 10:55:56,925] Register Account - Step 01: Click to register button
+[2023-08-04 10:55:57,978] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 10:55:58,090] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 10:55:58,216] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 10:55:58,331] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 10:55:58,438] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 10:55:58,528] Register Account - Step 07: Input into FirstName textbox value is: Tan Tan
+[2023-08-04 10:55:58,670] Register Account - Step 08: Input into LastName textbox value is: Tran
+[2023-08-04 10:55:58,793] Register Account - Step 09: Input into Email textbox value is: automation@gmail.com
+[2023-08-04 10:55:58,927] Register Account - Step 10: Input into Password textbox value is: null
+[2023-08-04 10:55:59,047] Login Account - Step 01: Click to login button
+[2023-08-04 10:55:59,479] Login Account - Step 02: Input to email address value is: automation@gmail.com
+[2023-08-04 10:55:59,597] Login Account - Step 03: Input to email password value is:null
+[2023-08-04 10:55:59,668] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 10:55:59,674] OS name = windows 10
+[2023-08-04 10:55:59,674] Driver instance name = chromedriver: chrome on windows (121c66367d5c8432e8299724d581eb82)
+[2023-08-04 10:57:58,659] Register Account - Step 01: Click to register button
+[2023-08-04 10:57:59,716] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 10:57:59,829] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 10:57:59,957] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 10:58:00,074] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 10:58:00,183] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 10:58:00,271] Register Account - Step 07: Input into FirstName textbox value is: Tan Tan
+[2023-08-04 10:58:00,415] Register Account - Step 08: Input into LastName textbox value is: Tran
+[2023-08-04 10:58:00,534] Register Account - Step 09: Input into Email textbox value is: automation@gmail.com
+[2023-08-04 10:58:00,664] Register Account - Step 10: Input into Password textbox value is: null
+[2023-08-04 10:58:00,784] Login Account - Step 01: Click to login button
+[2023-08-04 10:58:01,204] Login Account - Step 02: Input to email address value is: automation@gmail.com
+[2023-08-04 10:58:01,325] Login Account - Step 03: Input to email password value is:null
+[2023-08-04 10:58:01,399] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 10:58:01,404] OS name = windows 10
+[2023-08-04 10:58:01,404] Driver instance name = chromedriver: chrome on windows (1887df0bd8271581e93e11a5b93d63e8)
+[2023-08-04 10:59:12,322] Register Account - Step 01: Click to register button
+[2023-08-04 10:59:13,383] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 10:59:13,498] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 10:59:13,626] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 10:59:13,740] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 10:59:13,852] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 10:59:13,946] Register Account - Step 07: Input into FirstName textbox value is: Tan Tan
+[2023-08-04 10:59:14,081] Register Account - Step 08: Input into LastName textbox value is: Tran
+[2023-08-04 10:59:14,205] Register Account - Step 09: Input into Email textbox value is: automation@gmail.com
+[2023-08-04 10:59:14,336] Register Account - Step 10: Input into Password textbox value is: 123456
+[2023-08-04 10:59:14,460] Register Account - Step 11: Input into Confirm Password textbox value is: 123456
+[2023-08-04 10:59:14,586] Register Account - Step 07: Click to register button
+[2023-08-04 10:59:15,342] Register Account - Step 08: Verify register message success
+[2023-08-04 10:59:15,454] Login Account - Step 01: Click to login button
+[2023-08-04 10:59:15,878] Login Account - Step 02: Input to email address value is: automation@gmail.com
+[2023-08-04 10:59:16,002] Login Account - Step 03: Input to email password value is:123456
+[2023-08-04 10:59:16,121] Login Account - Step 04: Click to login button
+[2023-08-04 10:59:16,809] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 10:59:16,859] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 10:59:17,270] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 10:59:17,330] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 10:59:17,377] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 10:59:17,419] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 10:59:17,467] OS name = windows 10
+[2023-08-04 10:59:17,468] Driver instance name = chromedriver: chrome on windows (3efad5b52b7665ce11e3775e42272b24)
+[2023-08-04 10:59:56,163] Register Account - Step 01: Click to register button
+[2023-08-04 10:59:57,213] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 10:59:57,326] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 10:59:57,452] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 10:59:57,564] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 10:59:57,671] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 10:59:57,758] Register Account - Step 07: Input into FirstName textbox value is: Tan Tan
+[2023-08-04 10:59:57,897] Register Account - Step 08: Input into LastName textbox value is: Tran
+[2023-08-04 10:59:58,018] Register Account - Step 09: Input into Email textbox value is: automation@gmail.com
+[2023-08-04 10:59:58,150] Register Account - Step 10: Input into Password textbox value is: 123456
+[2023-08-04 10:59:58,277] Register Account - Step 11: Input into Confirm Password textbox value is: 123456
+[2023-08-04 10:59:58,402] Register Account - Step 07: Click to register button
+[2023-08-04 10:59:58,828] Register Account - Step 08: Verify register message success
+[2023-08-04 11:00:28,478] Register Account - Step 01: Click to register button
+[2023-08-04 11:00:29,614] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 11:00:29,725] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 11:00:29,864] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 11:00:29,979] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 11:00:30,084] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 11:00:30,170] Register Account - Step 07: Input into FirstName textbox value is: Tan Tan
+[2023-08-04 11:00:30,310] Register Account - Step 08: Input into LastName textbox value is: Tran
+[2023-08-04 11:00:30,431] Register Account - Step 09: Input into Email textbox value is: automation1@gmail.com
+[2023-08-04 11:00:30,562] Register Account - Step 10: Input into Password textbox value is: 123456
+[2023-08-04 11:00:30,691] Register Account - Step 11: Input into Confirm Password textbox value is: 123456
+[2023-08-04 11:00:30,818] Register Account - Step 07: Click to register button
+[2023-08-04 11:00:31,572] Register Account - Step 08: Verify register message success
+[2023-08-04 11:00:31,683] Login Account - Step 01: Click to login button
+[2023-08-04 11:00:32,120] Login Account - Step 02: Input to email address value is: automation1@gmail.com
+[2023-08-04 11:00:32,241] Login Account - Step 03: Input to email password value is:123456
+[2023-08-04 11:00:32,365] Login Account - Step 04: Click to login button
+[2023-08-04 11:00:33,112] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 11:00:33,161] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 11:00:33,653] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 11:00:33,714] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 11:00:33,768] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 11:00:33,811] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 11:00:33,853] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 11:00:33,896] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 11:00:34,072] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 11:00:34,215] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 11:00:34,825] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 11:00:34,871] OS name = windows 10
+[2023-08-04 11:00:34,871] Driver instance name = chromedriver: chrome on windows (57789b2bf263fa7a8a7b609d1486ca80)
+[2023-08-04 11:11:48,899] Register Account - Step 01: Click to register button
+[2023-08-04 11:11:50,006] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 11:11:50,121] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 11:11:50,243] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 11:11:50,360] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 11:11:50,470] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 11:11:50,560] Register Account - Step 07: Input into FirstName textbox value is: Tan Tan
+[2023-08-04 11:11:50,703] Register Account - Step 08: Input into LastName textbox value is: Tan Tan
+[2023-08-04 11:11:50,837] Register Account - Step 09: Input into Email textbox value is: automation1@gmail.com
+[2023-08-04 11:11:50,969] Register Account - Step 10: Input into Password textbox value is: 123456
+[2023-08-04 11:11:51,092] Register Account - Step 11: Input into Confirm Password textbox value is: 123456
+[2023-08-04 11:11:51,215] Register Account - Step 07: Click to register button
+[2023-08-04 11:11:51,658] Register Account - Step 08: Verify register message success
+[2023-08-04 11:12:21,784] Login Account - Step 01: Click to login button
+[2023-08-04 11:12:22,702] Login Account - Step 02: Input to email address value is: automation1@gmail.com
+[2023-08-04 11:12:22,844] Login Account - Step 03: Input to email password value is:123456
+[2023-08-04 11:12:22,967] Login Account - Step 04: Click to login button
+[2023-08-04 11:12:23,743] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 11:12:23,805] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 11:12:24,228] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 11:12:24,287] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 11:12:24,338] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 11:12:24,394] OS name = windows 10
+[2023-08-04 11:12:24,395] Driver instance name = chromedriver: chrome on windows (b82bc7d144e22133386a4d1d208236d0)
+[2023-08-04 11:12:43,030] Register Account - Step 01: Click to register button
+[2023-08-04 11:12:45,168] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 11:12:45,282] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 11:12:45,408] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 11:12:45,520] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 11:12:45,626] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 11:12:45,716] Register Account - Step 07: Input into FirstName textbox value is: Tan Tan
+[2023-08-04 11:12:45,858] Register Account - Step 08: Input into LastName textbox value is: Tran
+[2023-08-04 11:12:45,982] Register Account - Step 09: Input into Email textbox value is: automation2@gmail.com
+[2023-08-04 11:12:46,114] Register Account - Step 10: Input into Password textbox value is: 123456
+[2023-08-04 11:12:46,245] Register Account - Step 11: Input into Confirm Password textbox value is: 123456
+[2023-08-04 11:12:46,377] Register Account - Step 07: Click to register button
+[2023-08-04 11:12:47,238] Register Account - Step 08: Verify register message success
+[2023-08-04 11:12:47,351] Login Account - Step 01: Click to login button
+[2023-08-04 11:12:47,787] Login Account - Step 02: Input to email address value is: automation2@gmail.com
+[2023-08-04 11:12:47,906] Login Account - Step 03: Input to email password value is:123456
+[2023-08-04 11:12:48,026] Login Account - Step 04: Click to login button
+[2023-08-04 11:12:49,148] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 11:12:49,205] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 11:12:49,663] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 11:12:49,723] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 11:12:49,771] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 11:12:49,814] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 11:12:49,856] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 11:12:49,897] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 11:12:50,080] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 11:12:50,221] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 11:12:50,851] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 11:12:50,898] OS name = windows 10
+[2023-08-04 11:12:50,898] Driver instance name = chromedriver: chrome on windows (74e1af95923a2dab51059df6e59abafe)
+[2023-08-04 11:33:40,850] Register Account - Step 01: Click to register button
+[2023-08-04 11:33:41,942] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 11:33:42,056] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 11:33:42,180] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 11:33:42,297] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 11:33:42,402] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 11:33:42,491] Register Account - Step 07: Input into FirstName textbox value is: Betty
+[2023-08-04 11:33:42,631] Register Account - Step 08: Input into LastName textbox value is: Bogan
+[2023-08-04 11:33:42,755] Register Account - Step 09: Input into Email textbox value is: ASDBJKASDBKJ@GMAIL.COM
+[2023-08-04 11:33:42,891] Register Account - Step 10: Input into Password textbox value is: 123456
+[2023-08-04 11:33:43,013] Register Account - Step 11: Input into Confirm Password textbox value is: 123456
+[2023-08-04 11:33:43,135] Register Account - Step 07: Click to register button
+[2023-08-04 11:33:43,912] Register Account - Step 08: Verify register message success
+[2023-08-04 11:33:44,047] Login Account - Step 01: Click to login button
+[2023-08-04 11:33:44,470] Login Account - Step 02: Input to email address value is: ASDBJKASDBKJ@GMAIL.COM
+[2023-08-04 11:33:44,596] Login Account - Step 03: Input to email password value is:123456
+[2023-08-04 11:33:44,715] Login Account - Step 04: Click to login button
+[2023-08-04 11:33:45,465] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 11:33:45,514] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 11:33:45,927] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 11:33:45,988] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 11:33:46,035] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 11:33:46,080] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 11:33:46,125] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 11:33:46,168] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 11:33:46,338] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 11:33:46,482] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 11:33:47,084] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 11:33:47,128] OS name = windows 10
+[2023-08-04 11:33:47,129] Driver instance name = chromedriver: chrome on windows (f54c47608aabff4481dfe00a2e0b6cd0)
+[2023-08-04 16:53:10,606] Register Account - Step 01: Click to register button
+[2023-08-04 16:53:11,711] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 16:53:11,831] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 16:53:11,965] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 16:53:12,079] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 16:53:12,194] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 16:53:12,393] Login Account - Step 01: Click to login button
+[2023-08-04 16:53:12,802] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 16:53:12,807] OS name = windows 10
+[2023-08-04 16:53:12,807] Driver instance name = chromedriver: chrome on windows (172f8eb776690890475759885ceb048e)
+[2023-08-04 16:54:48,051] Register Account - Step 01: Click to register button
+[2023-08-04 16:54:49,162] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 16:54:49,271] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 16:54:49,407] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 16:54:49,524] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 16:54:49,635] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 16:54:49,720] Register Account - Step 07: Input into FirstName textbox value is: Tan Tan
+[2023-08-04 16:54:49,861] Register Account - Step 08: Input into LastName textbox value is: Tran
+[2023-08-04 16:54:49,989] Register Account - Step 09: Input into Email textbox value is: automation2@gmail.com
+[2023-08-04 16:54:50,119] Register Account - Step 10: Input into Password textbox value is: 123456
+[2023-08-04 16:54:50,245] Register Account - Step 11: Input into Confirm Password textbox value is: 123456
+[2023-08-04 16:54:50,368] Register Account - Step 07: Click to register button
+[2023-08-04 16:54:51,119] Register Account - Step 08: Verify register message success
+[2023-08-04 16:54:51,274] Login Account - Step 01: Click to login button
+[2023-08-04 16:54:51,701] Login Account - Step 02: Input to email address value is: automation2@gmail.com
+[2023-08-04 16:54:51,826] Login Account - Step 03: Input to email password value is:123456
+[2023-08-04 16:54:51,943] Login Account - Step 04: Click to login button
+[2023-08-04 16:54:52,678] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 16:54:52,725] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 16:54:53,131] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 16:54:53,189] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 16:54:53,233] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 16:54:53,277] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 16:54:53,322] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 16:54:53,365] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 16:54:53,537] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 16:54:53,680] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 16:54:54,264] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 16:54:54,309] OS name = windows 10
+[2023-08-04 16:54:54,309] Driver instance name = chromedriver: chrome on windows (3d5ea32fb858fbae378d8ed9efbe3325)
+[2023-08-04 16:55:35,856] Register Account - Step 01: Click to register button
+[2023-08-04 16:55:36,944] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 16:55:37,056] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 16:55:37,186] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 16:55:37,303] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 16:55:37,415] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 16:55:37,502] Register Account - Step 07: Input into FirstName textbox value is: Tan Tan
+[2023-08-04 16:55:37,644] Register Account - Step 08: Input into LastName textbox value is: Tran
+[2023-08-04 16:55:37,780] Register Account - Step 09: Input into Email textbox value is: automation2@gmail.com
+[2023-08-04 16:55:37,905] Register Account - Step 10: Input into Password textbox value is: 123456
+[2023-08-04 16:55:38,026] Register Account - Step 11: Input into Confirm Password textbox value is: 123456
+[2023-08-04 16:55:38,149] Register Account - Step 07: Click to register button
+[2023-08-04 16:55:38,615] Register Account - Step 08: Verify register message success
+[2023-08-04 16:55:42,391] Login Account - Step 01: Click to login button
+[2023-08-04 16:55:42,405] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 16:55:42,411] OS name = windows 10
+[2023-08-04 16:55:42,412] Driver instance name = chromedriver: chrome on windows (c76ad13d8d886ad3db6da91f1423f993)
+[2023-08-04 16:55:42,417] disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=115.0.5790.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'VN-TANTRANDINH2', ip: '192.168.180.99', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\TAN~1.TRA\AppData\...}, goog:chromeOptions: {debuggerAddress: localhost:55182}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c76ad13d8d886ad3db6da91f1423f993
+[2023-08-04 16:56:06,363] Register Account - Step 01: Click to register button
+[2023-08-04 16:56:07,455] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 16:56:07,569] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 16:56:07,708] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 16:56:07,820] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 16:56:07,922] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 16:56:08,008] Register Account - Step 07: Input into FirstName textbox value is: Luther
+[2023-08-04 16:56:08,159] Register Account - Step 08: Input into LastName textbox value is: McClure
+[2023-08-04 16:56:08,292] Register Account - Step 09: Input into Email textbox value is: merna.labadie@gmail.com
+[2023-08-04 16:56:08,426] Register Account - Step 10: Input into Password textbox value is: nyh07hlp4
+[2023-08-04 16:56:08,550] Register Account - Step 11: Input into Confirm Password textbox value is: nyh07hlp4
+[2023-08-04 16:56:08,678] Register Account - Step 07: Click to register button
+[2023-08-04 16:56:09,391] Register Account - Step 08: Verify register message success
+[2023-08-04 16:56:09,561] Login Account - Step 01: Click to login button
+[2023-08-04 16:56:09,978] Login Account - Step 02: Input to email address value is: merna.labadie@gmail.com
+[2023-08-04 16:56:10,097] Login Account - Step 03: Input to email password value is:nyh07hlp4
+[2023-08-04 16:56:10,217] Login Account - Step 04: Click to login button
+[2023-08-04 16:56:10,909] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 16:56:10,957] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 16:56:11,350] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 16:56:11,409] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 16:56:11,454] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 16:56:11,496] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 16:56:11,538] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 16:56:11,579] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 16:56:11,747] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 16:56:11,886] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 16:56:12,475] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 16:56:12,521] OS name = windows 10
+[2023-08-04 16:56:12,521] Driver instance name = chromedriver: chrome on windows (c7aee0c31dc455f7b2604247bd956869)
+[2023-08-04 16:56:49,030] Register Account - Step 01: Click to register button
+[2023-08-04 16:56:50,087] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 16:56:50,198] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 16:56:50,331] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 16:56:50,456] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 16:56:50,566] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 16:56:50,672] Register Account - Step 07: Input into FirstName textbox value is: Robby
+[2023-08-04 16:56:50,810] Register Account - Step 08: Input into LastName textbox value is: Rosenbaum
+[2023-08-04 16:56:50,947] Register Account - Step 09: Input into Email textbox value is: justine.doyle@yahoo.com
+[2023-08-04 16:56:51,076] Register Account - Step 10: Input into Password textbox value is: jx21gvjb
+[2023-08-04 16:56:51,200] Register Account - Step 11: Input into Confirm Password textbox value is: jx21gvjb
+[2023-08-04 16:56:51,323] Register Account - Step 07: Click to register button
+[2023-08-04 16:56:52,502] Register Account - Step 08: Verify register message success
+[2023-08-04 16:56:52,705] Login Account - Step 01: Click to login button
+[2023-08-04 16:56:53,118] Login Account - Step 02: Input to email address value is: justine.doyle@yahoo.com
+[2023-08-04 16:56:53,239] Login Account - Step 03: Input to email password value is:jx21gvjb
+[2023-08-04 16:56:53,358] Login Account - Step 04: Click to login button
+[2023-08-04 16:56:54,064] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 16:56:54,111] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 16:56:54,556] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 16:56:54,615] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 16:56:54,660] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 16:56:54,702] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 16:56:54,743] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 16:56:54,785] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 16:56:54,952] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 16:56:55,095] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 16:56:55,691] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 16:56:55,734] OS name = windows 10
+[2023-08-04 16:56:55,734] Driver instance name = chromedriver: chrome on windows (29522c574ee8a6a063980c5bb748e19a)
+[2023-08-04 16:59:59,319] Register Account - Step 01: Click to register button
+[2023-08-04 16:59:59,888] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 16:59:59,998] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 17:00:00,132] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 17:00:00,242] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 17:00:00,355] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 17:00:00,447] Register Account - Step 07: Input into FirstName textbox value is: Bettye
+[2023-08-04 17:00:00,587] Register Account - Step 08: Input into LastName textbox value is: Robel
+[2023-08-04 17:00:00,716] Register Account - Step 09: Input into Email textbox value is: haywood.maggio@yahoo.com
+[2023-08-04 17:00:00,846] Register Account - Step 10: Input into Password textbox value is: yclfvda89j1ec4z
+[2023-08-04 17:00:00,972] Register Account - Step 11: Input into Confirm Password textbox value is: yclfvda89j1ec4z
+[2023-08-04 17:00:01,100] Register Account - Step 07: Click to register button
+[2023-08-04 17:00:02,202] Register Account - Step 08: Verify register message success
+[2023-08-04 17:00:02,355] Login Account - Step 01: Click to login button
+[2023-08-04 17:00:02,841] Login Account - Step 02: Input to email address value is: haywood.maggio@yahoo.com
+[2023-08-04 17:00:02,959] Login Account - Step 03: Input to email password value is:yclfvda89j1ec4z
+[2023-08-04 17:00:03,082] Login Account - Step 04: Click to login button
+[2023-08-04 17:00:03,871] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 17:00:03,919] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 17:00:04,376] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 17:00:04,435] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 17:00:04,480] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 17:00:04,523] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 17:00:04,564] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 17:00:04,605] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 17:00:04,774] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 17:00:04,918] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 17:00:05,522] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 17:00:05,563] OS name = windows 10
+[2023-08-04 17:00:05,564] Driver instance name = chromedriver: chrome on windows (a17d943f37241b04e9a608c4de526d3e)
+[2023-08-04 17:02:33,428] Register Account - Step 01: Click to register button
+[2023-08-04 17:02:34,502] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 17:02:34,612] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 17:02:34,741] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 17:02:34,855] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 17:02:34,965] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 17:02:35,053] Register Account - Step 07: Input into FirstName textbox value is: Renato
+[2023-08-04 17:02:35,196] Register Account - Step 08: Input into LastName textbox value is: Goyette
+[2023-08-04 17:02:35,327] Register Account - Step 09: Input into Email textbox value is: marshall.goodwin@gmail.com
+[2023-08-04 17:02:35,459] Register Account - Step 10: Input into Password textbox value is: fccnty44k
+[2023-08-04 17:02:35,585] Register Account - Step 11: Input into Confirm Password textbox value is: fccnty44k
+[2023-08-04 17:02:35,706] Register Account - Step 07: Click to register button
+[2023-08-04 17:02:36,455] Register Account - Step 08: Verify register message success
+[2023-08-04 17:02:36,613] Login Account - Step 01: Click to login button
+[2023-08-04 17:02:37,030] Login Account - Step 02: Input to email address value is: marshall.goodwin@gmail.com
+[2023-08-04 17:02:37,153] Login Account - Step 03: Input to email password value is:fccnty44k
+[2023-08-04 17:02:37,273] Login Account - Step 04: Click to login button
+[2023-08-04 17:02:38,002] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 17:02:38,049] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 17:02:38,457] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 17:02:38,514] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 17:02:38,556] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 17:02:38,599] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 17:02:38,640] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 17:02:38,682] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 17:02:38,848] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 17:02:38,989] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 17:02:39,581] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 17:02:39,624] OS name = windows 10
+[2023-08-04 17:02:39,624] Driver instance name = chromedriver: chrome on windows (cdbcecda874fe33856427542d97ff01f)
+[2023-08-04 17:08:40,005] Register Account - Step 01: Click to register button
+[2023-08-04 17:08:41,085] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 17:08:41,197] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 17:08:41,339] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 17:08:41,449] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 17:08:41,552] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 17:08:41,641] Register Account - Step 07: Input into FirstName textbox value is: Rodrigo
+[2023-08-04 17:08:41,781] Register Account - Step 08: Input into LastName textbox value is: Reynolds
+[2023-08-04 17:08:41,915] Register Account - Step 09: Input into Email textbox value is: roy.stracke@gmail.com
+[2023-08-04 17:08:42,041] Register Account - Step 10: Input into Password textbox value is: fwr6758u
+[2023-08-04 17:08:42,169] Register Account - Step 11: Input into Confirm Password textbox value is: fwr6758u
+[2023-08-04 17:08:42,293] Register Account - Step 07: Click to register button
+[2023-08-04 17:08:43,059] Register Account - Step 08: Verify register message success
+[2023-08-04 17:08:43,223] Login Account - Step 01: Click to login button
+[2023-08-04 17:08:43,656] Login Account - Step 02: Input to email address value is: roy.stracke@gmail.com
+[2023-08-04 17:08:43,782] Login Account - Step 03: Input to email password value is:fwr6758u
+[2023-08-04 17:08:43,894] Login Account - Step 04: Click to login button
+[2023-08-04 17:08:44,635] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 17:08:44,682] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 17:08:45,117] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 17:08:45,176] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 17:08:45,220] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 17:08:45,262] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 17:08:45,308] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 17:08:45,350] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 17:08:45,519] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 17:08:45,667] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 17:08:46,265] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 17:08:46,308] OS name = windows 10
+[2023-08-04 17:08:46,308] Driver instance name = chromedriver: chrome on windows (769cb1e7154c171cc023b2bec8c7a57a)
+[2023-08-04 17:09:28,898] Register Account - Step 01: Click to register button
+[2023-08-04 17:09:29,967] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 17:09:30,088] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 17:09:30,222] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 17:09:30,338] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 17:09:30,445] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 17:09:30,532] Register Account - Step 07: Input into FirstName textbox value is: Pat
+[2023-08-04 17:09:30,679] Register Account - Step 08: Input into LastName textbox value is: Gibson
+[2023-08-04 17:09:30,814] Register Account - Step 09: Input into Email textbox value is: hershel.jacobi@gmail.com
+[2023-08-04 17:09:30,946] Register Account - Step 10: Input into Password textbox value is: nxw5j6pfzh7v
+[2023-08-04 17:09:31,070] Register Account - Step 11: Input into Confirm Password textbox value is: nxw5j6pfzh7v
+[2023-08-04 17:09:31,197] Register Account - Step 07: Click to register button
+[2023-08-04 17:09:31,952] Register Account - Step 08: Verify register message success
+[2023-08-04 17:09:32,113] Login Account - Step 01: Click to login button
+[2023-08-04 17:09:32,535] Login Account - Step 02: Input to email address value is: hershel.jacobi@gmail.com
+[2023-08-04 17:09:32,658] Login Account - Step 03: Input to email password value is:nxw5j6pfzh7v
+[2023-08-04 17:09:32,779] Login Account - Step 04: Click to login button
+[2023-08-04 17:09:33,484] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 17:09:33,530] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 17:09:33,953] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 17:09:34,010] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 17:09:34,054] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 17:09:34,095] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 17:09:34,136] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 17:09:34,181] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 17:09:34,348] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 17:09:34,489] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 17:09:35,090] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 17:09:35,132] OS name = windows 10
+[2023-08-04 17:09:35,133] Driver instance name = chromedriver: chrome on windows (54ed325d27e7339fd772bcee5fb28d54)
+[2023-08-04 17:29:59,855] Register Account - Step 01: Click to register button
+[2023-08-04 17:30:00,978] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 17:30:01,139] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 17:30:01,325] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 17:30:01,510] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 17:30:01,678] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 17:30:01,826] Register Account - Step 07: Input into FirstName textbox value is: Anibal
+[2023-08-04 17:30:02,001] Register Account - Step 08: Input into LastName textbox value is: Langosh
+[2023-08-04 17:30:02,157] Register Account - Step 09: Input into Email textbox value is: oda.beier@hotmail.com
+[2023-08-04 17:30:02,318] Register Account - Step 10: Input into Password textbox value is: gwt9iwkqpmy30z0
+[2023-08-04 17:30:02,487] Register Account - Step 11: Input into Confirm Password textbox value is: gwt9iwkqpmy30z0
+[2023-08-04 17:30:02,660] Register Account - Step 07: Click to register button
+[2023-08-04 17:30:03,498] Register Account - Step 08: Verify register message success
+[2023-08-04 17:30:03,720] Login Account - Step 01: Click to login button
+[2023-08-04 17:30:04,233] Login Account - Step 02: Input to email address value is: oda.beier@hotmail.com
+[2023-08-04 17:30:04,371] Login Account - Step 03: Input to email password value is:gwt9iwkqpmy30z0
+[2023-08-04 17:30:04,523] Login Account - Step 04: Click to login button
+[2023-08-04 17:30:05,304] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 17:30:05,374] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 17:30:05,823] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 17:30:05,908] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 17:30:05,965] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 17:30:06,028] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 17:30:06,089] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 17:30:06,148] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 17:30:06,346] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 17:30:06,531] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 17:30:07,155] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 17:30:07,213] OS name = windows 10
+[2023-08-04 17:30:07,213] Driver instance name = chromedriver: chrome on windows (34faba166da772104a1b63f6e6abe352)
+[2023-08-04 17:32:30,395] Register Account - Step 01: Click to register button
+[2023-08-04 17:32:31,543] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 17:32:31,693] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 17:32:31,890] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 17:32:32,074] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 17:32:32,258] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 17:32:32,370] Register Account - Step 07: Input into FirstName textbox value is: Annabelle
+[2023-08-04 17:32:32,546] Register Account - Step 08: Input into LastName textbox value is: Stark
+[2023-08-04 17:32:32,710] Register Account - Step 09: Input into Email textbox value is: johnny.will@hotmail.com
+[2023-08-04 17:32:32,900] Register Account - Step 10: Input into Password textbox value is: tszx2wu6cc
+[2023-08-04 17:32:33,058] Register Account - Step 11: Input into Confirm Password textbox value is: tszx2wu6cc
+[2023-08-04 17:32:33,217] Register Account - Step 07: Click to register button
+[2023-08-04 17:32:34,019] Register Account - Step 08: Verify register message success
+[2023-08-04 17:32:34,240] Login Account - Step 01: Click to login button
+[2023-08-04 17:32:34,728] Login Account - Step 02: Input to email address value is: johnny.will@hotmail.com
+[2023-08-04 17:32:34,864] Login Account - Step 03: Input to email password value is:tszx2wu6cc
+[2023-08-04 17:32:35,009] Login Account - Step 04: Click to login button
+[2023-08-04 17:32:35,785] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 17:32:35,864] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 17:32:36,357] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 17:32:36,436] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 17:32:36,509] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 17:32:36,571] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 17:32:36,635] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 17:32:36,691] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 17:32:36,884] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 17:32:37,053] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 17:32:37,697] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 17:32:37,762] OS name = windows 10
+[2023-08-04 17:32:37,762] Driver instance name = chromedriver: chrome on windows (b1f933d0c5dac5d8909b912867661e88)
+[2023-08-04 17:46:55,429] Register Account - Step 01: Click to register button
+[2023-08-04 17:46:56,555] Register Account - Step 02: Select Gender radio value is: Female
+[2023-08-04 17:46:56,708] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 17:46:56,891] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 17:46:57,060] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 17:46:57,213] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 17:46:57,340] Register Account - Step 07: Input into FirstName textbox value is: Camilla
+[2023-08-04 17:46:57,515] Register Account - Step 08: Input into LastName textbox value is: Thompson
+[2023-08-04 17:46:57,669] Register Account - Step 09: Input into Email textbox value is: margarito.morissette@gmail.com
+[2023-08-04 17:46:57,842] Register Account - Step 10: Input into Password textbox value is: oh75mdqmy
+[2023-08-04 17:46:57,998] Register Account - Step 11: Input into Confirm Password textbox value is: oh75mdqmy
+[2023-08-04 17:46:58,152] Register Account - Step 07: Click to register button
+[2023-08-04 17:46:58,946] Register Account - Step 08: Verify register message success
+[2023-08-04 17:46:59,126] Login Account - Step 01: Click to login button
+[2023-08-04 17:46:59,609] Login Account - Step 02: Input to email address value is: margarito.morissette@gmail.com
+[2023-08-04 17:46:59,761] Login Account - Step 03: Input to email password value is:oh75mdqmy
+[2023-08-04 17:46:59,901] Login Account - Step 04: Click to login button
+[2023-08-04 17:47:00,671] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 17:47:00,740] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 17:47:01,253] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 17:47:01,337] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-08-04 17:47:01,406] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 17:47:01,469] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 17:47:01,531] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 17:47:01,587] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 17:47:01,783] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 17:47:01,941] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 17:47:02,662] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 17:47:02,714] OS name = windows 10
+[2023-08-04 17:47:02,714] Driver instance name = chromedriver: chrome on windows (050a500068ca7f2839036e3d260636a5)
+[2023-08-04 17:51:29,889] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 17:51:30,071] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 17:51:30,239] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 17:51:30,396] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 17:51:30,525] Register Account - Step 07: Input into FirstName textbox value is: Jarrod
+[2023-08-04 17:51:30,705] Register Account - Step 08: Input into LastName textbox value is: Johns
+[2023-08-04 17:51:30,854] Register Account - Step 09: Input into Email textbox value is: barton.schoen@yahoo.com
+[2023-08-04 17:51:31,024] Register Account - Step 10: Input into Password textbox value is: jli3hbla9i
+[2023-08-04 17:51:31,196] Register Account - Step 11: Input into Confirm Password textbox value is: jli3hbla9i
+[2023-08-04 17:51:31,368] Register Account - Step 07: Click to register button
+[2023-08-04 17:51:32,184] Register Account - Step 08: Verify register message success
+[2023-08-04 17:51:33,037] Login Account - Step 03: Input to email password value is:jli3hbla9i
+[2023-08-04 17:51:33,182] Login Account - Step 04: Click to login button
+[2023-08-04 17:51:34,173] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 17:51:34,253] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 17:51:34,709] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 17:51:34,875] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 17:51:34,938] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 17:51:35,002] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 17:51:35,062] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 17:51:35,255] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 17:51:35,437] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 17:51:36,022] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 17:51:36,077] OS name = windows 10
+[2023-08-04 17:51:36,077] Driver instance name = chromedriver: chrome on windows (04fae3234306d2326cd735e82214b2c4)
+[2023-08-04 17:53:38,877] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 17:53:39,074] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 17:53:39,246] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 17:53:39,418] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 17:53:39,542] Register Account - Step 07: Input into FirstName textbox value is: Kasey
+[2023-08-04 17:53:39,722] Register Account - Step 08: Input into LastName textbox value is: Koss
+[2023-08-04 17:53:39,887] Register Account - Step 09: Input into Email textbox value is: marlyn.ziemann@gmail.com
+[2023-08-04 17:53:40,055] Register Account - Step 10: Input into Password textbox value is: 9soxmgq5joehes
+[2023-08-04 17:53:40,221] Register Account - Step 11: Input into Confirm Password textbox value is: 9soxmgq5joehes
+[2023-08-04 17:53:40,380] Register Account - Step 07: Click to register button
+[2023-08-04 17:53:41,171] Register Account - Step 08: Verify register message success
+[2023-08-04 17:53:41,988] Login Account - Step 03: Input to email password value is:9soxmgq5joehes
+[2023-08-04 17:53:42,138] Login Account - Step 04: Click to login button
+[2023-08-04 17:53:42,974] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 17:53:43,052] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 17:53:43,490] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 17:53:43,642] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-08-04 17:53:43,705] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-08-04 17:53:43,767] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-08-04 17:53:43,826] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-08-04 17:53:44,022] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-08-04 17:53:44,188] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-08-04 17:53:44,813] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-08-04 17:53:44,875] OS name = windows 10
+[2023-08-04 17:53:44,876] Driver instance name = chromedriver: chrome on windows (4b0b93a905268760e29e3452e80fb89f)
+[2023-08-04 17:55:18,724] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 17:55:18,922] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 17:55:19,079] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 17:55:19,250] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 17:55:19,376] Register Account - Step 07: Input into FirstName textbox value is: Timothy
+[2023-08-04 17:55:19,556] Register Account - Step 08: Input into LastName textbox value is: Baumbach
+[2023-08-04 17:55:19,713] Register Account - Step 09: Input into Email textbox value is: jerry.quitzon@gmail.com
+[2023-08-04 17:55:19,875] Register Account - Step 10: Input into Password textbox value is: on8qr3ywln
+[2023-08-04 17:55:20,038] Register Account - Step 11: Input into Confirm Password textbox value is: on8qr3ywln
+[2023-08-04 17:55:20,198] Register Account - Step 07: Click to register button
+[2023-08-04 17:55:21,034] Register Account - Step 08: Verify register message success
+[2023-08-04 17:55:21,903] Login Account - Step 03: Input to email password value is:on8qr3ywln
+[2023-08-04 17:55:22,053] Login Account - Step 04: Click to login button
+[2023-08-04 17:55:22,845] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 17:55:22,894] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 17:55:23,398] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 17:55:23,965] OS name = windows 10
+[2023-08-04 17:55:23,966] Driver instance name = chromedriver: chrome on windows (471d5e43b6a5b0514b6a1cd48d9d60f7)

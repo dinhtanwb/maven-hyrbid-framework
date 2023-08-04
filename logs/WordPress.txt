@@ -1,0 +1,18 @@
+[2023-08-04 17:55:18,724] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-08-04 17:55:18,922] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-08-04 17:55:19,079] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-08-04 17:55:19,250] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-08-04 17:55:19,376] Register Account - Step 07: Input into FirstName textbox value is: Timothy
+[2023-08-04 17:55:19,556] Register Account - Step 08: Input into LastName textbox value is: Baumbach
+[2023-08-04 17:55:19,713] Register Account - Step 09: Input into Email textbox value is: jerry.quitzon@gmail.com
+[2023-08-04 17:55:19,875] Register Account - Step 10: Input into Password textbox value is: on8qr3ywln
+[2023-08-04 17:55:20,038] Register Account - Step 11: Input into Confirm Password textbox value is: on8qr3ywln
+[2023-08-04 17:55:20,198] Register Account - Step 07: Click to register button
+[2023-08-04 17:55:21,034] Register Account - Step 08: Verify register message success
+[2023-08-04 17:55:21,903] Login Account - Step 03: Input to email password value is:on8qr3ywln
+[2023-08-04 17:55:22,053] Login Account - Step 04: Click to login button
+[2023-08-04 17:55:22,845] Login Account - Step 05: Verify 'My Account' text
+[2023-08-04 17:55:22,894] Login Account - Step 06: Click to 'My Account' text
+[2023-08-04 17:55:23,398] Login Account - Step 07: Verify 'Customer info' text
+[2023-08-04 17:55:23,965] OS name = windows 10
+[2023-08-04 17:55:23,966] Driver instance name = chromedriver: chrome on windows (471d5e43b6a5b0514b6a1cd48d9d60f7)

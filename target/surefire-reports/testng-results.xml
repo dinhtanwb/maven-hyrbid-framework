@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[[2023-08-04 17:32:30,395] Register Account - Step 01: Click to register button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:31,543] Register Account - Step 02: Select Gender radio value is: Female
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:31,693] Register Account - Step 03: Select Day DropdownList value is: 14
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:31,890] Register Account - Step 04: Select Month DropdownList value is: November
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:32,074] Register Account - Step 05: Select Year DropdownList value is: 1997
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:32,258] Register Account - Step 06: Check Checkbox value is: Newsletter
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:32,370] Register Account - Step 07: Input into FirstName textbox value is: Annabelle
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:32,546] Register Account - Step 08: Input into LastName textbox value is: Stark
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:32,710] Register Account - Step 09: Input into Email textbox value is: johnny.will@hotmail.com
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:32,900] Register Account - Step 10: Input into Password textbox value is: tszx2wu6cc
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:33,058] Register Account - Step 11: Input into Confirm Password textbox value is: tszx2wu6cc
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:33,217] Register Account - Step 07: Click to register button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:34,019] Register Account - Step 08: Verify register message success
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:34,240] Login Account - Step 01: Click to login button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:34,728] Login Account - Step 02: Input to email address value is: johnny.will@hotmail.com
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:34,864] Login Account - Step 03: Input to email password value is:tszx2wu6cc
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:35,009] Login Account - Step 04: Click to login button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:35,785] Login Account - Step 05: Verify 'My Account' text
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:35,864] Login Account - Step 06: Click to 'My Account' text
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:36,357] Login Account - Step 07: Verify 'Customer info' text
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:36,436] Verify Data - Step 01: Verify 'FirstName' TextBox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:36,509] Verify Data - Step 02: Verify 'LastName' TextBox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:36,571] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:36,635] Verify Data - Step 04: Verify 'Gender' Radio
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:36,691] Verify Data - Step 05: Verify 'Day' Dropdown
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:36,884] Verify Data - Step 06: Verify 'Month' Dropdown
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:37,053] Verify Data - Step 07: Verify 'Year' Dropdown
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:37,697] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:37,762] OS name = windows 10
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-04 17:32:37,762] Driver instance name = chromedriver: chrome on windows (b1f933d0c5dac5d8909b912867661e88)
+<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-04T10:32:25Z" name="FAKER DATA - NOPCOMERCE" finished-at="2023-08-04T10:32:38Z" duration-ms="12823">
+    <groups>
+    </groups>
+    <test started-at="2023-08-04T10:32:25Z" name="Run on CHROME" finished-at="2023-08-04T10:32:38Z" duration-ms="12823">
+      <class name="com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I">
+        <test-method is-config="true" signature="initAllureReport()[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@bbf9e07]" started-at="2023-08-04T10:32:25Z" name="initAllureReport" finished-at="2023-08-04T10:32:25Z" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initAllureReport -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@bbf9e07]" started-at="2023-08-04T10:32:25Z" name="beforeClass" finished-at="2023-08-04T10:32:30Z" duration-ms="5092" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://demo.nopcommerce.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="TC_01_Register_Account()[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@bbf9e07]" started-at="2023-08-04T10:32:30Z" name="TC_01_Register_Account" finished-at="2023-08-04T10:32:34Z" duration-ms="3765" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2023-08-04 17:32:30,395] Register Account - Step 01: Click to register button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:31,543] Register Account - Step 02: Select Gender radio value is: Female
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:31,693] Register Account - Step 03: Select Day DropdownList value is: 14
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:31,890] Register Account - Step 04: Select Month DropdownList value is: November
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:32,074] Register Account - Step 05: Select Year DropdownList value is: 1997
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:32,258] Register Account - Step 06: Check Checkbox value is: Newsletter
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:32,370] Register Account - Step 07: Input into FirstName textbox value is: Annabelle
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:32,546] Register Account - Step 08: Input into LastName textbox value is: Stark
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:32,710] Register Account - Step 09: Input into Email textbox value is: johnny.will@hotmail.com
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:32,900] Register Account - Step 10: Input into Password textbox value is: tszx2wu6cc
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:33,058] Register Account - Step 11: Input into Confirm Password textbox value is: tszx2wu6cc
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:33,217] Register Account - Step 07: Click to register button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:34,019] Register Account - Step 08: Verify register message success
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_01_Register_Account -->
+        <test-method signature="TC_02_Login_Page()[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@bbf9e07]" started-at="2023-08-04T10:32:34Z" name="TC_02_Login_Page" finished-at="2023-08-04T10:32:36Z" duration-ms="2195" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2023-08-04 17:32:34,240] Login Account - Step 01: Click to login button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:34,728] Login Account - Step 02: Input to email address value is: johnny.will@hotmail.com
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:34,864] Login Account - Step 03: Input to email password value is:tszx2wu6cc
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:35,009] Login Account - Step 04: Click to login button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:35,785] Login Account - Step 05: Verify 'My Account' text
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:35,864] Login Account - Step 06: Click to 'My Account' text
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:36,357] Login Account - Step 07: Verify 'Customer info' text
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_02_Login_Page -->
+        <test-method signature="TC_03_Verify_Data()[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@bbf9e07]" started-at="2023-08-04T10:32:36Z" name="TC_03_Verify_Data" finished-at="2023-08-04T10:32:37Z" duration-ms="1325" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2023-08-04 17:32:36,436] Verify Data - Step 01: Verify 'FirstName' TextBox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:36,509] Verify Data - Step 02: Verify 'LastName' TextBox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:36,571] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:36,635] Verify Data - Step 04: Verify 'Gender' Radio
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:36,691] Verify Data - Step 05: Verify 'Day' Dropdown
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:36,884] Verify Data - Step 06: Verify 'Month' Dropdown
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:37,053] Verify Data - Step 07: Verify 'Year' Dropdown
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:37,697] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_03_Verify_Data -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@bbf9e07]" started-at="2023-08-04T10:32:37Z" name="afterClass" finished-at="2023-08-04T10:32:38Z" duration-ms="268" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2023-08-04 17:32:37,762] OS name = windows 10
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-04 17:32:37,762] Driver instance name = chromedriver: chrome on windows (b1f933d0c5dac5d8909b912867661e88)
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I -->
+    </test> <!-- Run on CHROME -->
+  </suite> <!-- FAKER DATA - NOPCOMERCE -->
+</testng-results>
