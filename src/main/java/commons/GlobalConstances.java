@@ -4,6 +4,7 @@ import java.io.File;
 
 public class GlobalConstances {
 	public static final String PORTAL_DEV_URL = "https://demo.nopcommerce.com/";
+	public static final String FRONT_END_URL = "https://testing.qa.prod.self-point.com/?domain=eliy.sites.self-point.com";
 	public static final String ADMIN_DEV_URL = "https://admin-demo.nopcommerce.com";
 	public static final String PROTAL_TESTING_URL = "https://demo.nopcommerce.com/";
 	public static final String ADMIN_TESTING_URL = "https://admin-demo.nopcommerce.com";

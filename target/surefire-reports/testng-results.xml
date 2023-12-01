@@ -1,289 +1,272 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="0" failed="0" skipped="3">
   <reporter-output>
     <line>
-      <![CDATA[[2023-08-04 17:32:30,395] Register Account - Step 01: Click to register button
+      <![CDATA[[2023-11-30 16:01:20,761] OS name = windows 11
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2023-08-04 17:32:31,543] Register Account - Step 02: Select Gender radio value is: Female
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:31,693] Register Account - Step 03: Select Day DropdownList value is: 14
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:31,890] Register Account - Step 04: Select Month DropdownList value is: November
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:32,074] Register Account - Step 05: Select Year DropdownList value is: 1997
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:32,258] Register Account - Step 06: Check Checkbox value is: Newsletter
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:32,370] Register Account - Step 07: Input into FirstName textbox value is: Annabelle
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:32,546] Register Account - Step 08: Input into LastName textbox value is: Stark
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:32,710] Register Account - Step 09: Input into Email textbox value is: johnny.will@hotmail.com
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:32,900] Register Account - Step 10: Input into Password textbox value is: tszx2wu6cc
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:33,058] Register Account - Step 11: Input into Confirm Password textbox value is: tszx2wu6cc
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:33,217] Register Account - Step 07: Click to register button
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:34,019] Register Account - Step 08: Verify register message success
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:34,240] Login Account - Step 01: Click to login button
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:34,728] Login Account - Step 02: Input to email address value is: johnny.will@hotmail.com
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:34,864] Login Account - Step 03: Input to email password value is:tszx2wu6cc
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:35,009] Login Account - Step 04: Click to login button
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:35,785] Login Account - Step 05: Verify 'My Account' text
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:35,864] Login Account - Step 06: Click to 'My Account' text
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:36,357] Login Account - Step 07: Verify 'Customer info' text
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:36,436] Verify Data - Step 01: Verify 'FirstName' TextBox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:36,509] Verify Data - Step 02: Verify 'LastName' TextBox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:36,571] Verify Data - Step 03: Verify 'EmailAddress' TextBox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:36,635] Verify Data - Step 04: Verify 'Gender' Radio
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:36,691] Verify Data - Step 05: Verify 'Day' Dropdown
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:36,884] Verify Data - Step 06: Verify 'Month' Dropdown
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:37,053] Verify Data - Step 07: Verify 'Year' Dropdown
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:37,697] Verify Data - Step 08: Verify 'Newsletter' Checkbox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:37,762] OS name = windows 10
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:32:37,762] Driver instance name = chromedriver: chrome on windows (b1f933d0c5dac5d8909b912867661e88)
+      <![CDATA[[2023-11-30 16:01:20,762] 
 <br>]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-08-04T10:32:25Z" name="FAKER DATA - NOPCOMERCE" finished-at="2023-08-04T10:32:38Z" duration-ms="12823">
+  <suite started-at="2023-11-30T09:01:20Z" name="WORDPRESS - ADMIN" finished-at="2023-11-30T09:01:20Z" duration-ms="370">
     <groups>
     </groups>
-    <test started-at="2023-08-04T10:32:25Z" name="Run on CHROME" finished-at="2023-08-04T10:32:38Z" duration-ms="12823">
-      <class name="com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I">
-        <test-method is-config="true" signature="initAllureReport()[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@bbf9e07]" started-at="2023-08-04T10:32:25Z" name="initAllureReport" finished-at="2023-08-04T10:32:25Z" duration-ms="68" status="PASS">
+    <test started-at="2023-11-30T09:01:20Z" name="Run on CHROME" finished-at="2023-11-30T09:01:20Z" duration-ms="370">
+      <class name="com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment_With_Java_Owner">
+        <test-method is-config="true" signature="initAllureReport()[pri:0, instance:com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment_With_Java_Owner@59532566]" started-at="2023-11-30T09:01:20Z" name="initAllureReport" finished-at="2023-11-30T09:01:20Z" duration-ms="38" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initAllureReport -->
-        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@bbf9e07]" started-at="2023-08-04T10:32:25Z" name="beforeClass" finished-at="2023-08-04T10:32:30Z" duration-ms="5092" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment_With_Java_Owner@59532566]" started-at="2023-11-30T09:01:20Z" name="beforeClass" finished-at="2023-11-30T09:01:20Z" duration-ms="17" status="FAIL">
           <params>
             <param index="0">
               <value>
                 <![CDATA[chrome]]>
               </value>
             </param>
-            <param index="1">
-              <value>
-                <![CDATA[https://demo.nopcommerce.com/]]>
-              </value>
-            </param>
           </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at java.base/java.util.concurrent.ConcurrentHashMap.putVal(ConcurrentHashMap.java:1011)
+at java.base/java.util.concurrent.ConcurrentHashMap.put(ConcurrentHashMap.java:1006)
+at java.base/java.util.Properties.put(Properties.java:1329)
+at java.base/java.util.Properties.setProperty(Properties.java:229)
+at org.aeonbits.owner.DefaultFactory.setProperty(DefaultFactory.java:54)
+at org.aeonbits.owner.ConfigFactory.setProperty(ConfigFactory.java:86)
+at com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment_With_Java_Owner.beforeClass(TC_01_Lv19_Multiple_Enviroment_With_Java_Owner.java:29)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TC_01_Register_Account()[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@bbf9e07]" started-at="2023-08-04T10:32:30Z" name="TC_01_Register_Account" finished-at="2023-08-04T10:32:34Z" duration-ms="3765" status="PASS">
+        <test-method signature="TC_01_Register_Account()[pri:0, instance:com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment_With_Java_Owner@59532566]" started-at="2023-11-30T09:01:20Z" name="TC_01_Register_Account" finished-at="2023-11-30T09:01:20Z" duration-ms="0" status="SKIP">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at java.base/java.util.concurrent.ConcurrentHashMap.putVal(ConcurrentHashMap.java:1011)
+at java.base/java.util.concurrent.ConcurrentHashMap.put(ConcurrentHashMap.java:1006)
+at java.base/java.util.Properties.put(Properties.java:1329)
+at java.base/java.util.Properties.setProperty(Properties.java:229)
+at org.aeonbits.owner.DefaultFactory.setProperty(DefaultFactory.java:54)
+at org.aeonbits.owner.ConfigFactory.setProperty(ConfigFactory.java:86)
+at com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment_With_Java_Owner.beforeClass(TC_01_Lv19_Multiple_Enviroment_With_Java_Owner.java:29)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
-            <line>
-              <![CDATA[[2023-08-04 17:32:30,395] Register Account - Step 01: Click to register button
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:31,543] Register Account - Step 02: Select Gender radio value is: Female
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:31,693] Register Account - Step 03: Select Day DropdownList value is: 14
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:31,890] Register Account - Step 04: Select Month DropdownList value is: November
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:32,074] Register Account - Step 05: Select Year DropdownList value is: 1997
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:32,258] Register Account - Step 06: Check Checkbox value is: Newsletter
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:32,370] Register Account - Step 07: Input into FirstName textbox value is: Annabelle
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:32,546] Register Account - Step 08: Input into LastName textbox value is: Stark
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:32,710] Register Account - Step 09: Input into Email textbox value is: johnny.will@hotmail.com
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:32,900] Register Account - Step 10: Input into Password textbox value is: tszx2wu6cc
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:33,058] Register Account - Step 11: Input into Confirm Password textbox value is: tszx2wu6cc
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:33,217] Register Account - Step 07: Click to register button
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:34,019] Register Account - Step 08: Verify register message success
-<br>]]>
-            </line>
           </reporter-output>
         </test-method> <!-- TC_01_Register_Account -->
-        <test-method signature="TC_02_Login_Page()[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@bbf9e07]" started-at="2023-08-04T10:32:34Z" name="TC_02_Login_Page" finished-at="2023-08-04T10:32:36Z" duration-ms="2195" status="PASS">
+        <test-method signature="TC_02_Login_Page()[pri:0, instance:com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment_With_Java_Owner@59532566]" started-at="2023-11-30T09:01:20Z" name="TC_02_Login_Page" finished-at="2023-11-30T09:01:20Z" duration-ms="0" status="SKIP">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at java.base/java.util.concurrent.ConcurrentHashMap.putVal(ConcurrentHashMap.java:1011)
+at java.base/java.util.concurrent.ConcurrentHashMap.put(ConcurrentHashMap.java:1006)
+at java.base/java.util.Properties.put(Properties.java:1329)
+at java.base/java.util.Properties.setProperty(Properties.java:229)
+at org.aeonbits.owner.DefaultFactory.setProperty(DefaultFactory.java:54)
+at org.aeonbits.owner.ConfigFactory.setProperty(ConfigFactory.java:86)
+at com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment_With_Java_Owner.beforeClass(TC_01_Lv19_Multiple_Enviroment_With_Java_Owner.java:29)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
-            <line>
-              <![CDATA[[2023-08-04 17:32:34,240] Login Account - Step 01: Click to login button
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:34,728] Login Account - Step 02: Input to email address value is: johnny.will@hotmail.com
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:34,864] Login Account - Step 03: Input to email password value is:tszx2wu6cc
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:35,009] Login Account - Step 04: Click to login button
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:35,785] Login Account - Step 05: Verify 'My Account' text
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:35,864] Login Account - Step 06: Click to 'My Account' text
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:36,357] Login Account - Step 07: Verify 'Customer info' text
-<br>]]>
-            </line>
           </reporter-output>
         </test-method> <!-- TC_02_Login_Page -->
-        <test-method signature="TC_03_Verify_Data()[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@bbf9e07]" started-at="2023-08-04T10:32:36Z" name="TC_03_Verify_Data" finished-at="2023-08-04T10:32:37Z" duration-ms="1325" status="PASS">
+        <test-method signature="TC_03_Verify_Data()[pri:0, instance:com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment_With_Java_Owner@59532566]" started-at="2023-11-30T09:01:20Z" name="TC_03_Verify_Data" finished-at="2023-11-30T09:01:20Z" duration-ms="0" status="SKIP">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at java.base/java.util.concurrent.ConcurrentHashMap.putVal(ConcurrentHashMap.java:1011)
+at java.base/java.util.concurrent.ConcurrentHashMap.put(ConcurrentHashMap.java:1006)
+at java.base/java.util.Properties.put(Properties.java:1329)
+at java.base/java.util.Properties.setProperty(Properties.java:229)
+at org.aeonbits.owner.DefaultFactory.setProperty(DefaultFactory.java:54)
+at org.aeonbits.owner.ConfigFactory.setProperty(ConfigFactory.java:86)
+at com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment_With_Java_Owner.beforeClass(TC_01_Lv19_Multiple_Enviroment_With_Java_Owner.java:29)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
-            <line>
-              <![CDATA[[2023-08-04 17:32:36,436] Verify Data - Step 01: Verify 'FirstName' TextBox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:36,509] Verify Data - Step 02: Verify 'LastName' TextBox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:36,571] Verify Data - Step 03: Verify 'EmailAddress' TextBox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:36,635] Verify Data - Step 04: Verify 'Gender' Radio
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:36,691] Verify Data - Step 05: Verify 'Day' Dropdown
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:36,884] Verify Data - Step 06: Verify 'Month' Dropdown
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:37,053] Verify Data - Step 07: Verify 'Year' Dropdown
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:32:37,697] Verify Data - Step 08: Verify 'Newsletter' Checkbox
-<br>]]>
-            </line>
           </reporter-output>
         </test-method> <!-- TC_03_Verify_Data -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@bbf9e07]" started-at="2023-08-04T10:32:37Z" name="afterClass" finished-at="2023-08-04T10:32:38Z" duration-ms="268" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment_With_Java_Owner@59532566]" started-at="2023-11-30T09:01:20Z" name="afterClass" finished-at="2023-11-30T09:01:20Z" duration-ms="4" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at java.base/java.lang.Runtime.exec(Runtime.java:406)
+at java.base/java.lang.Runtime.exec(Runtime.java:310)
+at commons.BaseTest.closeBrowserDriver(BaseTest.java:422)
+at com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment_With_Java_Owner.afterClass(TC_01_Lv19_Multiple_Enviroment_With_Java_Owner.java:148)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:214)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
             <line>
-              <![CDATA[[2023-08-04 17:32:37,762] OS name = windows 10
+              <![CDATA[[2023-11-30 16:01:20,761] OS name = windows 11
 <br>]]>
             </line>
             <line>
-              <![CDATA[[2023-08-04 17:32:37,762] Driver instance name = chromedriver: chrome on windows (b1f933d0c5dac5d8909b912867661e88)
+              <![CDATA[[2023-11-30 16:01:20,762] 
 <br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I -->
+      </class> <!-- com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment_With_Java_Owner -->
     </test> <!-- Run on CHROME -->
-  </suite> <!-- FAKER DATA - NOPCOMERCE -->
+  </suite> <!-- WORDPRESS - ADMIN -->
 </testng-results>

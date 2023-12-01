@@ -2,6 +2,7 @@ package commons;
 
 import org.openqa.selenium.WebDriver;
 
+import pageObjects.EBT.FEHomePageObject;
 import pageObjects.admin.AdminDashboardPageObject;
 import pageObjects.admin.AdminLoginPageObject;
 import pageObjects.jQuery.HomePageObjectJQuery;
@@ -65,6 +66,9 @@ public class PageGeneratorManager {
 	}
 	public static HomePageObjectJQuery getHomePageJQuery(WebDriver driver) {
 		return new HomePageObjectJQuery(driver);
+	}
+	public static FEHomePageObject getFEHomePageObject(WebDriver driver) {
+		return new FEHomePageObject(driver);
 	}
 
 }

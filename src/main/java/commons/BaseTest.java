@@ -48,11 +48,11 @@ public class BaseTest {
 	public WebDriver openMultipleBrowser(String browserName) {
 		BrowserList browser = BrowserList.valueOf(browserName.toUpperCase());
 		if (browser.equals(BrowserList.FIREFOX)) {
-			FirefoxProfile profile = new FirefoxProfile();
-			File translate = new File(GlobalConstances.PROJECT_PATH + "\\browserExtensions\\simple_translate-2.8.1.xpi");
-			profile.addExtension(translate);
+//			FirefoxProfile profile = new FirefoxProfile();
+//			File translate = new File(GlobalConstances.PROJECT_PATH + "\\browserExtensions\\simple_translate-2.8.1.xpi");
+//			profile.addExtension(translate);
 			FirefoxOptions options = new FirefoxOptions();
-			options.setProfile(profile);
+//			options.setProfile(profile);
 			driver = WebDriverManager.firefoxdriver().capabilities(options).create();
 			
 		} else if (browser.equals(BrowserList.H_FIREFOX)) {
@@ -127,7 +127,7 @@ public class BaseTest {
 		}
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(GlobalConstances.LONG_TIME_OUT, TimeUnit.SECONDS);
-		driver.get(GlobalConstances.PORTAL_DEV_URL);
+		driver.get(GlobalConstances.FRONT_END_URL);
 		// return driver để bên các class con hứng biến này và gắn vào driver ở class
 		// đó. ==> Sau đó sử dụng tiếp tục
 		return driver;

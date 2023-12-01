@@ -10,7 +10,9 @@ com\jQuery\TC_01_Lv09_DataGrid_DataTable.class
 com\nopcommerce\user\TC_01_Lv08_Dynamic_Locator.class
 com\nopcommerce\user\TC_01_Lv18_Manage_Test_Data_IV.class
 com\nopcommerce\user\TC_01_Lv07_Switch_Page_Object.class
+com\nopcommerce\user\TC_01_Lv19_Multiple_Enviroment_With_Java_Owner.class
 com\nopcommerce\user\TC_01_Lv06_Page_Generator_Manager_II.class
+com\nopcommerce\user\TC_01_Lv19_Multiple_Enviroment.class
 com\nopcommerce\user\TC_05_Sort_DisPlay_Paging.class
 com\nopcommerce\user\TC_01_Lv_05_Register_Apply_Page_Factory.class
 com\nopcommerce\user\TC_03_MyAccount.class
@@ -23,6 +25,7 @@ com\jQuery\TC_01_Lv09_DataGrid_DataTable2.class
 com\saucelabs\TC_01_Lv17_Sorting_ASC_DESC.class
 com\nopcommerce\user\TC_01_Lv17_Apply_Generate_Fake_Data.class
 com\jQuery\TC_01_Lv10_Upload_Multiple_Files.class
+com\nopcommerce\user\TC_01_Lv18_Manage_Test_Data_Apply_All_Report.class
 com\nopcommerce\common\Common_Level_01_Register_New_Account.class
 com\nopcommerce\user\TC_01_Lv13_ExtendReport_V5.class
 com\nopcommerce\user\TC_01_Lv_01_Register_DRY.class

@@ -1,221 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
+<testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
-    <line>
-      <![CDATA[[2023-08-04 17:55:18,724] Register Account - Step 03: Select Day DropdownList value is: 14
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:18,922] Register Account - Step 04: Select Month DropdownList value is: November
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:19,079] Register Account - Step 05: Select Year DropdownList value is: 1997
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:19,250] Register Account - Step 06: Check Checkbox value is: Newsletter
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:19,376] Register Account - Step 07: Input into FirstName textbox value is: Timothy
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:19,556] Register Account - Step 08: Input into LastName textbox value is: Baumbach
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:19,713] Register Account - Step 09: Input into Email textbox value is: jerry.quitzon@gmail.com
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:19,875] Register Account - Step 10: Input into Password textbox value is: on8qr3ywln
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:20,038] Register Account - Step 11: Input into Confirm Password textbox value is: on8qr3ywln
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:20,198] Register Account - Step 07: Click to register button
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:21,034] Register Account - Step 08: Verify register message success
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:21,903] Login Account - Step 03: Input to email password value is:on8qr3ywln
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:22,053] Login Account - Step 04: Click to login button
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:22,845] Login Account - Step 05: Verify 'My Account' text
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:22,894] Login Account - Step 06: Click to 'My Account' text
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:23,398] Login Account - Step 07: Verify 'Customer info' text
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:23,965] OS name = windows 10
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2023-08-04 17:55:23,966] Driver instance name = chromedriver: chrome on windows (471d5e43b6a5b0514b6a1cd48d9d60f7)
-<br>]]>
-    </line>
   </reporter-output>
-  <suite started-at="2023-08-04T10:55:11Z" name="FAKER DATA - NOPCOMERCE" finished-at="2023-08-04T10:55:24Z" duration-ms="12531">
+  <suite started-at="2023-12-01T03:16:09Z" name="NopCommerece Project" finished-at="2023-12-01T03:16:35Z" duration-ms="26279">
     <groups>
     </groups>
-    <test started-at="2023-08-04T10:55:11Z" name="Run on CHROME" finished-at="2023-08-04T10:55:24Z" duration-ms="12531">
-      <class name="com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I">
-        <test-method is-config="true" signature="initAllureReport()[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@30364216]" started-at="2023-08-04T10:55:11Z" name="initAllureReport" finished-at="2023-08-04T10:55:11Z" duration-ms="80" status="PASS">
+    <test started-at="2023-12-01T03:16:09Z" name="Run on FIREFOX" finished-at="2023-12-01T03:16:35Z" duration-ms="26279">
+      <class name="com.stor.ai.EBT.Scenario_01">
+        <test-method is-config="true" signature="initAllureReport()[pri:0, instance:com.stor.ai.EBT.Scenario_01@2de50ee4]" started-at="2023-12-01T03:16:09Z" name="initAllureReport" finished-at="2023-12-01T03:16:09Z" duration-ms="41" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initAllureReport -->
-        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@30364216]" started-at="2023-08-04T10:55:11Z" name="beforeClass" finished-at="2023-08-04T10:55:16Z" duration-ms="5118" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.stor.ai.EBT.Scenario_01@2de50ee4]" started-at="2023-12-01T03:16:09Z" name="beforeClass" finished-at="2023-12-01T03:16:34Z" duration-ms="24918" status="FAIL">
           <params>
             <param index="0">
               <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[https://demo.nopcommerce.com/]]>
+                <![CDATA[firefox]]>
               </value>
             </param>
           </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method signature="TC_01_Register_Account(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@30364216]" started-at="2023-08-04T10:55:16Z" name="TC_01_Register_Account" finished-at="2023-08-04T10:55:21Z" duration-ms="4233" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I.TC_01_Register_Account(java.lang.reflect.Method)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[[2023-08-04 17:55:18,724] Register Account - Step 03: Select Day DropdownList value is: 14
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:55:18,922] Register Account - Step 04: Select Month DropdownList value is: November
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:55:19,079] Register Account - Step 05: Select Year DropdownList value is: 1997
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:55:19,250] Register Account - Step 06: Check Checkbox value is: Newsletter
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:55:19,376] Register Account - Step 07: Input into FirstName textbox value is: Timothy
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:55:19,556] Register Account - Step 08: Input into LastName textbox value is: Baumbach
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:55:19,713] Register Account - Step 09: Input into Email textbox value is: jerry.quitzon@gmail.com
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:55:19,875] Register Account - Step 10: Input into Password textbox value is: on8qr3ywln
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:55:20,038] Register Account - Step 11: Input into Confirm Password textbox value is: on8qr3ywln
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:55:20,198] Register Account - Step 07: Click to register button
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:55:21,034] Register Account - Step 08: Verify register message success
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_01_Register_Account -->
-        <test-method signature="TC_02_Login_Page(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@30364216]" started-at="2023-08-04T10:55:21Z" name="TC_02_Login_Page" finished-at="2023-08-04T10:55:23Z" duration-ms="2218" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I.TC_02_Login_Page(java.lang.reflect.Method)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[[2023-08-04 17:55:21,903] Login Account - Step 03: Input to email password value is:on8qr3ywln
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:55:22,053] Login Account - Step 04: Click to login button
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:55:22,845] Login Account - Step 05: Verify 'My Account' text
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:55:22,894] Login Account - Step 06: Click to 'My Account' text
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:55:23,398] Login Account - Step 07: Verify 'Customer info' text
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_02_Login_Page -->
-        <test-method signature="TC_03_Verify_Data(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@30364216]" started-at="2023-08-04T10:55:23Z" name="TC_03_Verify_Data" finished-at="2023-08-04T10:55:23Z" duration-ms="74" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I.TC_03_Verify_Data(java.lang.reflect.Method)]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.AssertionError">
+          <exception class="org.openqa.selenium.WebDriverException">
             <message>
-              <![CDATA[expected [Timothy1] but found [Timothy]]]>
+              <![CDATA[Reached error page: about:neterror?e=dnsNotFound&u=https%3A//testing.qa.prod.self-point.com/%3Fdomain%3Deliy.sites.self-point.com&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20testing.qa.prod.self-point.com.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TANTRAN-QC', ip: '10.50.0.136', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 120.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231129155202, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 11744, moz:profile: C:\Users\TanTran\AppData\Lo..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1438f010-636a-4b19-87c1-135f9cc9dc12]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [Timothy1] but found [Timothy]
-at org.testng.Assert.fail(Assert.java:96)
-at org.testng.Assert.failNotEquals(Assert.java:776)
-at org.testng.Assert.assertEqualsImpl(Assert.java:137)
-at org.testng.Assert.assertEquals(Assert.java:118)
-at org.testng.Assert.assertEquals(Assert.java:453)
-at org.testng.Assert.assertEquals(Assert.java:463)
-at com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I.TC_03_Verify_Data(TC_01_Lv18_Manage_Test_Data_I.java:118)
+              <![CDATA[org.openqa.selenium.WebDriverException: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//testing.qa.prod.self-point.com/%3Fdomain%3Deliy.sites.self-point.com&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20testing.qa.prod.self-point.com.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TANTRAN-QC', ip: '10.50.0.136', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 120.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231129155202, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 11744, moz:profile: C:\Users\TanTran\AppData\Lo..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1438f010-636a-4b19-87c1-135f9cc9dc12
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+at commons.BaseTest.openMultipleBrowser(BaseTest.java:130)
+at com.stor.ai.EBT.Scenario_01.beforeClass(Scenario_01.java:21)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
 at java.base/java.lang.reflect.Method.invoke(Method.java:566)
 at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
 at org.testng.TestRunner.privateRun(TestRunner.java:648)
 at org.testng.TestRunner.run(TestRunner.java:505)
 at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
@@ -233,23 +76,77 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_03_Verify_Data -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@30364216]" started-at="2023-08-04T10:55:23Z" name="afterClass" finished-at="2023-08-04T10:55:24Z" duration-ms="285" status="PASS">
+        </test-method> <!-- beforeClass -->
+        <test-method signature="TC_01_Login_Your_Account()[pri:0, instance:com.stor.ai.EBT.Scenario_01@2de50ee4]" started-at="2023-12-01T03:16:34Z" name="TC_01_Login_Your_Account" finished-at="2023-12-01T03:16:34Z" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[Reached error page: about:neterror?e=dnsNotFound&u=https%3A//testing.qa.prod.self-point.com/%3Fdomain%3Deliy.sites.self-point.com&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20testing.qa.prod.self-point.com.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TANTRAN-QC', ip: '10.50.0.136', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 120.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231129155202, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 11744, moz:profile: C:\Users\TanTran\AppData\Lo..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1438f010-636a-4b19-87c1-135f9cc9dc12]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//testing.qa.prod.self-point.com/%3Fdomain%3Deliy.sites.self-point.com&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20testing.qa.prod.self-point.com.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TANTRAN-QC', ip: '10.50.0.136', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 120.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231129155202, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 11744, moz:profile: C:\Users\TanTran\AppData\Lo..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1438f010-636a-4b19-87c1-135f9cc9dc12
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+at commons.BaseTest.openMultipleBrowser(BaseTest.java:130)
+at com.stor.ai.EBT.Scenario_01.beforeClass(Scenario_01.java:21)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
           <reporter-output>
-            <line>
-              <![CDATA[[2023-08-04 17:55:23,965] OS name = windows 10
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2023-08-04 17:55:23,966] Driver instance name = chromedriver: chrome on windows (471d5e43b6a5b0514b6a1cd48d9d60f7)
-<br>]]>
-            </line>
+          </reporter-output>
+        </test-method> <!-- TC_01_Login_Your_Account -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.stor.ai.EBT.Scenario_01@2de50ee4]" started-at="2023-12-01T03:16:34Z" name="afterClass" finished-at="2023-12-01T03:16:35Z" duration-ms="1119" status="PASS">
+          <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I -->
-    </test> <!-- Run on CHROME -->
-  </suite> <!-- FAKER DATA - NOPCOMERCE -->
+      </class> <!-- com.stor.ai.EBT.Scenario_01 -->
+    </test> <!-- Run on FIREFOX -->
+  </suite> <!-- NopCommerece Project -->
 </testng-results>

@@ -1,41 +1,44 @@
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv16_Page_Element_Component.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\wordpress\admin\Post_01_CRUD.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv07_Switch_Role.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv18_Manage_Test_Data_I.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv18_Manage_Test_Data_IV.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\dataInternal\User.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_02_Login.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\saucelabs\TC_01_Lv17_Sorting_ASC_DESC.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv06_Page_Generator_Manager_II.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv17_Apply_Generate_Fake_Data.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv11_Custom_Assert.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\common\Common_Level_01_Register_New_Account.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv_04_Register_Multiple_Browser.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\facebook\TC_01_Lv12_Verify_Display_Non_Display.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\jQuery\TC_01_Lv09_DataGrid_DataTable2.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\common\Common_Level_02_Login_With_Cookie.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv_05_Register_Apply_Page_Factory.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv_02_Register_Apply_BasePage_I.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_04_Search_Advanced.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv13_Allure_Report.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv13_Apply_Log_ReportNG.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv06_Page_Generator_Manager_III.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv14_Apply_Cookie_To_Login_Page.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv_02_Register_Apply_BasePage_III.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv07_Switch_Page_Object.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv_03_Register_POM.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv18_Manage_Test_Data_II.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv18_Manage_Test_Data_III.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv_01_Register_DRY.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_05_Sort_DisPlay_Paging.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv14_Apply_ShareData.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv_02_Register_Apply_BasePage_II.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv13_Extend_Report_V2.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv15_Apply_Custom_Quit_Browser.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\jQuery\TC_01_Lv09_DataGrid_DataTable.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv08_Dynamic_Locator.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv13_ExtendReport_V5.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\jQuery\TC_01_Lv10_Upload_Multiple_Files.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\dataExternal\DataJson.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_01_Lv06_Page_Generator_Manager_I.java
-D:\Tan ProMax\09 - Mvn Framework\src\test\java\com\nopcommerce\user\TC_03_MyAccount.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv18_Manage_Test_Data_III.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv_01_Register_DRY.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv06_Page_Generator_Manager_I.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv13_Extend_Report_V2.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv_02_Register_Apply_BasePage_I.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_03_MyAccount.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv_03_Register_POM.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv08_Dynamic_Locator.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv_02_Register_Apply_BasePage_III.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv07_Switch_Role.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv15_Apply_Custom_Quit_Browser.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv06_Page_Generator_Manager_III.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv17_Apply_Generate_Fake_Data.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\facebook\TC_01_Lv12_Verify_Display_Non_Display.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv_05_Register_Apply_Page_Factory.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv06_Page_Generator_Manager_II.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv13_ExtendReport_V5.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\common\Common_Level_02_Login_With_Cookie.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv_02_Register_Apply_BasePage_II.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\jQuery\TC_01_Lv09_DataGrid_DataTable2.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\dataInternal\User.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv16_Page_Element_Component.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv18_Manage_Test_Data_Apply_All_Report.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv19_Multiple_Enviroment_With_Java_Owner.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv07_Switch_Page_Object.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_02_Login.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\jQuery\TC_01_Lv10_Upload_Multiple_Files.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\saucelabs\TC_01_Lv17_Sorting_ASC_DESC.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\dataExternal\DataJson.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv13_Apply_Log_ReportNG.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\common\Common_Level_01_Register_New_Account.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\wordpress\admin\Post_01_CRUD.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv11_Custom_Assert.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv19_Multiple_Enviroment.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv13_Allure_Report.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv14_Apply_ShareData.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv18_Manage_Test_Data_I.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\jQuery\TC_01_Lv09_DataGrid_DataTable.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv14_Apply_Cookie_To_Login_Page.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_04_Search_Advanced.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv18_Manage_Test_Data_IV.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_05_Sort_DisPlay_Paging.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv18_Manage_Test_Data_II.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\java\com\nopcommerce\user\TC_01_Lv_04_Register_Multiple_Browser.java

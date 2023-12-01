@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [FAKER DATA - NOPCOMERCE]">
-  <parameter name="url" value="https://demo.nopcommerce.com/"/>
+<suite name="Failed suite [NopCommerece Project]">
   <listeners>
     <listener class-name="commons.MethodListener"/>
     <listener class-name="org.uncommons.reportng.HTMLReporter"/>
     <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
-    <listener class-name="reportConfig.AllureTestListener"/>
-    <listener class-name="reportConfig.ExtentTestListener"/>
   </listeners>
-  <test thread-count="5" name="Run on CHROME(failed)">
-    <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="Run on FIREFOX(failed)">
+    <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I">
+      <class name="com.stor.ai.EBT.Scenario_01">
         <methods>
+          <include name="TC_01_Login_Your_Account"/>
           <include name="beforeClass"/>
-          <include name="TC_03_Verify_Data" invocation-numbers="0"/>
-          <include name="afterClass"/>
           <include name="initAllureReport"/>
+          <include name="afterClass"/>
         </methods>
-      </class> <!-- com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I -->
+      </class> <!-- com.stor.ai.EBT.Scenario_01 -->
     </classes>
-  </test> <!-- Run on CHROME(failed) -->
-</suite> <!-- Failed suite [FAKER DATA - NOPCOMERCE] -->
+  </test> <!-- Run on FIREFOX(failed) -->
+</suite> <!-- Failed suite [NopCommerece Project] -->

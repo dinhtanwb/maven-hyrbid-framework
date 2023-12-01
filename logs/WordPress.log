@@ -1682,3 +1682,101 @@ Session ID: c76ad13d8d886ad3db6da91f1423f993
 [2023-08-04 17:55:23,398] Login Account - Step 07: Verify 'Customer info' text
 [2023-08-04 17:55:23,965] OS name = windows 10
 [2023-08-04 17:55:23,966] Driver instance name = chromedriver: chrome on windows (471d5e43b6a5b0514b6a1cd48d9d60f7)
+[2023-11-30 16:01:20,761] OS name = windows 11
+[2023-11-30 16:01:20,762] 
+[2023-11-30 16:02:47,551] OS name = windows 11
+[2023-11-30 16:02:47,552] 
+[2023-11-30 16:04:11,783] OS name = windows 11
+[2023-11-30 16:04:11,784] 
+[2023-11-30 16:05:00,338] OS name = windows 11
+[2023-11-30 16:05:00,340] 
+[2023-11-30 16:05:25,615] Register Account - Step 01: Click to register button
+[2023-11-30 16:05:26,402] Register Account - Step 02: Select Gender radio value is: Female
+[2023-11-30 16:05:26,684] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-11-30 16:05:27,058] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-11-30 16:05:27,362] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-11-30 16:05:27,652] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-11-30 16:05:27,919] Register Account - Step 07: Input into FirstName textbox value is: Automation
+[2023-11-30 16:05:28,002] Register Account - Step 08: Input into LastName textbox value is: FC
+[2023-11-30 16:05:28,094] Register Account - Step 09: Input into Email textbox value is: afc14289@gmail.com
+[2023-11-30 16:05:28,189] Register Account - Step 10: Input into Password textbox value is: 123456
+[2023-11-30 16:05:28,281] Register Account - Step 11: Input into Confirm Password textbox value is: 123456
+[2023-11-30 16:05:28,371] Register Account - Step 07: Click to register button
+[2023-11-30 16:05:29,217] Register Account - Step 08: Verify register message success
+[2023-11-30 16:05:29,384] Login Account - Step 01: Click to login button
+[2023-11-30 16:05:29,931] Login Account - Step 02: Input to email address value is: afc14289@gmail.com
+[2023-11-30 16:05:30,017] Login Account - Step 03: Input to email password value is:123456
+[2023-11-30 16:05:30,101] Login Account - Step 04: Click to login button
+[2023-11-30 16:05:31,009] Login Account - Step 05: Verify 'My Account' text
+[2023-11-30 16:05:31,069] Login Account - Step 06: Click to 'My Account' text
+[2023-11-30 16:05:32,115] Login Account - Step 07: Verify 'Customer info' text
+[2023-11-30 16:05:32,189] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-11-30 16:05:32,259] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-11-30 16:05:32,322] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-11-30 16:05:32,384] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-11-30 16:05:32,432] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-11-30 16:05:32,556] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-11-30 16:05:32,661] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-11-30 16:05:32,966] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-11-30 16:05:33,053] OS name = windows 11
+[2023-11-30 16:05:33,053] Driver instance name = firefoxdriver: firefox on windows (4b7d6082-5869-4a7a-8f2d-739a7f239e6e)
+[2023-11-30 16:13:11,239] Register Account - Step 01: Click to register button
+[2023-11-30 16:13:12,592] Register Account - Step 02: Select Gender radio value is: Female
+[2023-11-30 16:13:12,879] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-11-30 16:13:13,191] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-11-30 16:13:13,492] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-11-30 16:13:13,801] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-11-30 16:13:14,083] Register Account - Step 07: Input into FirstName textbox value is: Automation
+[2023-11-30 16:13:14,191] Register Account - Step 08: Input into LastName textbox value is: FC
+[2023-11-30 16:13:14,287] Register Account - Step 09: Input into Email textbox value is: afc68394@gmail.com
+[2023-11-30 16:13:14,388] Register Account - Step 10: Input into Password textbox value is: 123456
+[2023-11-30 16:13:14,474] Register Account - Step 11: Input into Confirm Password textbox value is: 123456
+[2023-11-30 16:13:14,585] Register Account - Step 07: Click to register button
+[2023-11-30 16:13:17,211] Register Account - Step 08: Verify register message success
+[2023-11-30 16:13:17,367] Login Account - Step 01: Click to login button
+[2023-11-30 16:13:17,830] Login Account - Step 02: Input to email address value is: afc68394@gmail.com
+[2023-11-30 16:13:17,929] Login Account - Step 03: Input to email password value is:123456
+[2023-11-30 16:13:18,022] Login Account - Step 04: Click to login button
+[2023-11-30 16:13:19,194] Login Account - Step 05: Verify 'My Account' text
+[2023-11-30 16:13:19,256] Login Account - Step 06: Click to 'My Account' text
+[2023-11-30 16:13:19,814] Login Account - Step 07: Verify 'Customer info' text
+[2023-11-30 16:13:19,893] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-11-30 16:13:19,961] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-11-30 16:13:20,022] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-11-30 16:13:20,083] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-11-30 16:13:20,130] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-11-30 16:13:20,257] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-11-30 16:13:20,364] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-11-30 16:13:20,650] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-11-30 16:13:20,693] OS name = windows 11
+[2023-11-30 16:13:20,693] Driver instance name = firefoxdriver: firefox on windows (1a2e8b2e-cb31-4d11-ae1c-e1699586b11b)
+[2023-11-30 16:21:10,900] Register Account - Step 01: Click to register button
+[2023-11-30 16:21:12,366] Register Account - Step 02: Select Gender radio value is: Female
+[2023-11-30 16:21:12,664] Register Account - Step 03: Select Day DropdownList value is: 14
+[2023-11-30 16:21:13,017] Register Account - Step 04: Select Month DropdownList value is: November
+[2023-11-30 16:21:13,310] Register Account - Step 05: Select Year DropdownList value is: 1997
+[2023-11-30 16:21:13,604] Register Account - Step 06: Check Checkbox value is: Newsletter
+[2023-11-30 16:21:13,870] Register Account - Step 07: Input into FirstName textbox value is: Automation
+[2023-11-30 16:21:13,953] Register Account - Step 08: Input into LastName textbox value is: FC
+[2023-11-30 16:21:14,042] Register Account - Step 09: Input into Email textbox value is: afc18010@gmail.com
+[2023-11-30 16:21:14,136] Register Account - Step 10: Input into Password textbox value is: 123456
+[2023-11-30 16:21:14,227] Register Account - Step 11: Input into Confirm Password textbox value is: 123456
+[2023-11-30 16:21:14,320] Register Account - Step 07: Click to register button
+[2023-11-30 16:21:15,532] Register Account - Step 08: Verify register message success
+[2023-11-30 16:21:15,694] Login Account - Step 01: Click to login button
+[2023-11-30 16:21:16,187] Login Account - Step 02: Input to email address value is: afc18010@gmail.com
+[2023-11-30 16:21:16,274] Login Account - Step 03: Input to email password value is:123456
+[2023-11-30 16:21:16,356] Login Account - Step 04: Click to login button
+[2023-11-30 16:21:17,287] Login Account - Step 05: Verify 'My Account' text
+[2023-11-30 16:21:17,340] Login Account - Step 06: Click to 'My Account' text
+[2023-11-30 16:21:17,775] Login Account - Step 07: Verify 'Customer info' text
+[2023-11-30 16:21:17,863] Verify Data - Step 01: Verify 'FirstName' TextBox
+[2023-11-30 16:21:17,933] Verify Data - Step 02: Verify 'LastName' TextBox
+[2023-11-30 16:21:18,024] Verify Data - Step 03: Verify 'EmailAddress' TextBox
+[2023-11-30 16:21:18,086] Verify Data - Step 04: Verify 'Gender' Radio
+[2023-11-30 16:21:18,134] Verify Data - Step 05: Verify 'Day' Dropdown
+[2023-11-30 16:21:18,251] Verify Data - Step 06: Verify 'Month' Dropdown
+[2023-11-30 16:21:18,362] Verify Data - Step 07: Verify 'Year' Dropdown
+[2023-11-30 16:21:18,603] Verify Data - Step 08: Verify 'Newsletter' Checkbox
+[2023-11-30 16:21:18,645] OS name = windows 11
+[2023-11-30 16:21:18,645] Driver instance name = firefoxdriver: firefox on windows (137fed0f-c488-4467-ac1d-6b748b4063df)

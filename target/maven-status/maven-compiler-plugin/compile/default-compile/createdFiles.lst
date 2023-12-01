@@ -36,6 +36,7 @@ utilities\MailHelper.class
 commons\BasePageFactory$2.class
 pageUIs\user\UserOrderPageUI.class
 pageUIs\user\UserNoteBookPageUI.class
+utilities\Enviroment.class
 utilities\JDBCHelper.class
 commons\BasePageFactory$1.class
 pageUIs\wordpress\admin\AdminPostCategoriesPageUI.class

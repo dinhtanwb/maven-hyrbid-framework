@@ -1,81 +1,82 @@
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\user\UserCustomerInfoPageObject.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\user\UserRegisterPageObject.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\jQuery\ArrayList.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\reportConfig\ReportNGListener_ImageFile.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\user\UserDetailPageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\user\UserSearchPageObject.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\reportConfig\AllureTestListener.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\user\UserLoginPageObject.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\wordpress\admin\AdminPostAddNewPO.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\wordpress\admin\AdminPostAllPO.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\wordpress\admin\PageGeneratorManager.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\saucelabs\HomePO.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\user\UserAddressesUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObject\facebook\LoginPageObject.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\saucelabs\LoginHomePageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\wordpress\endUser\UserSearchProductUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\user\UserAddressesPageObject.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\saucelabs\PageGeneratorManager.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\utilities\DataHelper.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\commons\GlobalConstances.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\wordpress\admin\AdminLoginPO.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\user\UserRegisterPageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\reportConfig\ReportNGListener_Base_64.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\admin\AdminBaseUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\user\UserChangePasswordUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\commons\BaseTest.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\commons\PageGeneratorManager.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjectFactory\LoginPageFactory.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\wordpress\admin\AdminPostCategoriesPO.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\user\UserHomePageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\user\UserNoteBookPageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\commons\TestNGAppender.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\jQuery\HomePageJQueryUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\utilities\ExcelHelper.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObject\facebook\PageGeneratorManagerFacebook.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\wordpress\endUser\UserHomeUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\admin\AdminDashboardPageObject.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\user\UserSearchPageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\jQuery\HomePageObjectJQuery.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\user\UserDetailProductPageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\wordpress\admin\AdminPostAddNewPageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\user\UserOrderPageObject.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\admin\AdminLoginPageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\commons\MethodListener.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\wordpress\admin\AdminPostTagsPO.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\wordpress\admin\AdminPostCategoriesPageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\user\UserHomePageObject.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\wordpress\admin\AdminLoginPageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\utilities\JDBCHelper.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\commons\BasePage.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\wordpress\endUser\UserSearchProductPO.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\user\UserLoginPageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\user\UserDetailReviewPageObject.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\reportConfig\ExtentTestManager.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\commons\VerificationFailures.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjectFactory\HomePageFactory.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\reportConfig\ExtentManager.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\utilities\MailHelper.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjectFactory\RegisterPageFactory.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\user\UserDetailProductPageObject.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\wordpress\endUser\UserHomePO.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\user\BaseNopCommerceUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\saucelabs\LoginHomePO.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\wordpress\admin\AdminDashBoardPO.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\saucelabs\HomePageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\commons\BasePageFactory.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\wordpress\endUser\PageGeneratorManager.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\user\UserNoteBookPageObject.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\facebook\LoginPageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\wordpress\admin\AdminPostTagsPageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\user\UserDesktopUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\admin\AdminDashBoardPageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\reportConfig\ExtentTestListener.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\user\UserTopMenuUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\wordpress\admin\AdminDashBoardPageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\wordpress\admin\AdminPostAllPageUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\admin\AdminLoginPageObject.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\user\UserChangePasswordPageObject.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageObjects\user\UserDeskTopPageObject.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\user\UserCustomerInfoUI.java
-D:\Tan ProMax\09 - Mvn Framework\src\main\java\pageUIs\user\UserOrderPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\reportConfig\ExtentTestListener.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\user\UserSearchPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\user\UserAddressesPageObject.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\user\UserHomePageObject.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\user\UserChangePasswordPageObject.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\jQuery\HomePageJQueryUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\commons\MethodListener.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\admin\AdminDashboardPageObject.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\wordpress\endUser\PageGeneratorManager.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\wordpress\endUser\UserHomePO.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\admin\AdminLoginPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\user\UserDeskTopPageObject.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\user\UserDetailProductPageObject.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\facebook\LoginPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\wordpress\admin\AdminDashBoardPO.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\user\UserDetailProductPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\wordpress\admin\AdminPostTagsPO.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\utilities\MailHelper.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\commons\PageGeneratorManager.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\admin\AdminLoginPageObject.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\jQuery\ArrayList.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\saucelabs\LoginHomePageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\user\UserCustomerInfoPageObject.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\user\UserDesktopUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\admin\AdminDashBoardPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\reportConfig\ReportNGListener_Base_64.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\wordpress\admin\AdminPostCategoriesPO.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\user\UserTopMenuUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\utilities\JDBCHelper.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\saucelabs\PageGeneratorManager.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\reportConfig\AllureTestListener.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\user\UserLoginPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\wordpress\admin\AdminPostAllPO.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\wordpress\endUser\UserSearchProductUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\user\UserDetailPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\commons\BaseTest.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\saucelabs\LoginHomePO.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\wordpress\admin\AdminPostAddNewPO.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\reportConfig\ExtentManager.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\utilities\DataHelper.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\user\UserRegisterPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\commons\VerificationFailures.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObject\facebook\LoginPageObject.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\user\UserCustomerInfoUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\user\UserHomePageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\utilities\Enviroment.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\commons\GlobalConstances.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\wordpress\admin\AdminLoginPO.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\admin\AdminBaseUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\user\BaseNopCommerceUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\wordpress\admin\PageGeneratorManager.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\wordpress\admin\AdminDashBoardPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\user\UserLoginPageObject.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\wordpress\endUser\UserSearchProductPO.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\commons\TestNGAppender.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjectFactory\HomePageFactory.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\commons\BasePage.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\wordpress\admin\AdminPostTagsPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\user\UserOrderPageObject.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\user\UserSearchPageObject.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\utilities\ExcelHelper.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\jQuery\HomePageObjectJQuery.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\user\UserAddressesUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\wordpress\admin\AdminPostCategoriesPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\reportConfig\ReportNGListener_ImageFile.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\wordpress\admin\AdminPostAllPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\commons\BasePageFactory.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\user\UserChangePasswordUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\user\UserOrderPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\wordpress\admin\AdminLoginPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\user\UserDetailReviewPageObject.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\user\UserNoteBookPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\user\UserRegisterPageObject.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjectFactory\LoginPageFactory.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\saucelabs\HomePageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\reportConfig\ExtentTestManager.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjectFactory\RegisterPageFactory.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\saucelabs\HomePO.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObjects\user\UserNoteBookPageObject.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageObject\facebook\PageGeneratorManagerFacebook.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\wordpress\admin\AdminPostAddNewPageUI.java
+D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\main\java\pageUIs\wordpress\endUser\UserHomeUI.java

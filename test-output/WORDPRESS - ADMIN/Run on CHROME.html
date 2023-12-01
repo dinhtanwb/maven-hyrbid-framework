@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Run on CHROME</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>3/0/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>0/0/3</td>
 </tr><tr>
-<td>Started on:</td><td>Fri Aug 04 16:56:44 ICT 2023</td>
+<td>Started on:</td><td>Thu Nov 30 16:04:11 ICT 2023</td>
 </tr>
-<tr><td>Total time:</td><td>11 seconds (11583 ms)</td>
+<tr><td>Total time:</td><td>0 seconds (336 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,102 +67,213 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
-<table width='100%' border='1' class='invocation-passed'>
-<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED CONFIGURATIONS</b></td></tr>
 <tr><td><b>Test method</b></td>
 <td width="30%"><b>Exception</b></td>
 <td width="10%"><b>Time (seconds)</b></td>
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I.TC_01_Register_Account()'><b>TC_01_Register_Account</b><br>Test class: com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I<br/>
-<a href="#Output-612412611" onClick='toggleBox("Output-612412611", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-612412611" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-612412611">
-[2023-08-04 16:56:49,030] Register Account - Step 01: Click to register button
-<br><br/>
-[2023-08-04 16:56:50,087] Register Account - Step 02: Select Gender radio value is: Female
-<br><br/>
-[2023-08-04 16:56:50,198] Register Account - Step 03: Select Day DropdownList value is: 14
-<br><br/>
-[2023-08-04 16:56:50,331] Register Account - Step 04: Select Month DropdownList value is: November
-<br><br/>
-[2023-08-04 16:56:50,456] Register Account - Step 05: Select Year DropdownList value is: 1997
-<br><br/>
-[2023-08-04 16:56:50,566] Register Account - Step 06: Check Checkbox value is: Newsletter
-<br><br/>
-[2023-08-04 16:56:50,672] Register Account - Step 07: Input into FirstName textbox value is: Robby
-<br><br/>
-[2023-08-04 16:56:50,810] Register Account - Step 08: Input into LastName textbox value is: Rosenbaum
-<br><br/>
-[2023-08-04 16:56:50,947] Register Account - Step 09: Input into Email textbox value is: justine.doyle@yahoo.com
-<br><br/>
-[2023-08-04 16:56:51,076] Register Account - Step 10: Input into Password textbox value is: jx21gvjb
-<br><br/>
-[2023-08-04 16:56:51,200] Register Account - Step 11: Input into Confirm Password textbox value is: jx21gvjb
-<br><br/>
-[2023-08-04 16:56:51,323] Register Account - Step 07: Click to register button
-<br><br/>
-[2023-08-04 16:56:52,502] Register Account - Step 08: Verify register message success
-<br><br/>
-</div>
-</td>
-<td></td>
-<td>3</td>
-<td>com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@588307f7</td></tr>
+<td title='com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment.beforeClass()'><b>beforeClass</b><br>Test class: com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment</td>
+<td><div><pre>org.testng.TestNGException: 
+Parameter &apos;environment&apos; is required by BeforeClass on method beforeClass but has not been marked @Optional or defined
+in D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\resources\runMultipleEnvironment.xml
+... Removed 23 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1680365850", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1680365850'><pre>org.testng.TestNGException: 
+Parameter &apos;environment&apos; is required by BeforeClass on method beforeClass but has not been marked @Optional or defined
+in D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\resources\runMultipleEnvironment.xml
+	at org.testng.internal.Parameters.createParams(Parameters.java:290)
+	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:359)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:620)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:190)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:209)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>0</td>
+<td>com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment@540b0448</td></tr>
 <tr>
-<td title='com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I.TC_02_Login_Page()'><b>TC_02_Login_Page</b><br>Test class: com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I<br/>
-<a href="#Output-1006546317" onClick='toggleBox("Output-1006546317", this, "Show output", "Hide output");'>Show output</a>
+<td title='com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment.afterClass()'><b>afterClass</b><br>Test class: com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment<br/>
+<a href="#Output-1013728905" onClick='toggleBox("Output-1013728905", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1006546317" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1006546317">
-[2023-08-04 16:56:52,705] Login Account - Step 01: Click to login button
+<a href="#Output-1013728905" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1013728905">
+[2023-11-30 16:04:11,783] OS name = windows 11
 <br><br/>
-[2023-08-04 16:56:53,118] Login Account - Step 02: Input to email address value is: justine.doyle@yahoo.com
-<br><br/>
-[2023-08-04 16:56:53,239] Login Account - Step 03: Input to email password value is:jx21gvjb
-<br><br/>
-[2023-08-04 16:56:53,358] Login Account - Step 04: Click to login button
-<br><br/>
-[2023-08-04 16:56:54,064] Login Account - Step 05: Verify 'My Account' text
-<br><br/>
-[2023-08-04 16:56:54,111] Login Account - Step 06: Click to 'My Account' text
-<br><br/>
-[2023-08-04 16:56:54,556] Login Account - Step 07: Verify 'Customer info' text
+[2023-11-30 16:04:11,784] 
 <br><br/>
 </div>
 </td>
-<td></td>
-<td>1</td>
-<td>com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@588307f7</td></tr>
+<td><div><pre>java.lang.NullPointerException
+	at java.base/java.lang.Runtime.exec(Runtime.java:406)
+	at java.base/java.lang.Runtime.exec(Runtime.java:310)
+	at commons.BaseTest.closeBrowserDriver(BaseTest.java:422)
+	at com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment.afterClass(TC_01_Lv19_Multiple_Enviroment.java:147)
+... Removed 26 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1013728905", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1013728905'><pre>java.lang.NullPointerException
+	at java.base/java.lang.Runtime.exec(Runtime.java:406)
+	at java.base/java.lang.Runtime.exec(Runtime.java:310)
+	at commons.BaseTest.closeBrowserDriver(BaseTest.java:422)
+	at com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment.afterClass(TC_01_Lv19_Multiple_Enviroment.java:147)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+	at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:214)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>0</td>
+<td>com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment@540b0448</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-skipped'>
+<tr><td colspan='4' align='center'><b>SKIPPED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
 <tr>
-<td title='com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I.TC_03_Verify_Data()'><b>TC_03_Verify_Data</b><br>Test class: com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I<br/>
-<a href="#Output-1781227569" onClick='toggleBox("Output-1781227569", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-1781227569" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1781227569">
-[2023-08-04 16:56:54,615] Verify Data - Step 01: Verify 'FirstName' TextBox
-<br><br/>
-[2023-08-04 16:56:54,660] Verify Data - Step 02: Verify 'LastName' TextBox
-<br><br/>
-[2023-08-04 16:56:54,702] Verify Data - Step 03: Verify 'EmailAddress' TextBox
-<br><br/>
-[2023-08-04 16:56:54,743] Verify Data - Step 04: Verify 'Gender' Radio
-<br><br/>
-[2023-08-04 16:56:54,785] Verify Data - Step 05: Verify 'Day' Dropdown
-<br><br/>
-[2023-08-04 16:56:54,952] Verify Data - Step 06: Verify 'Month' Dropdown
-<br><br/>
-[2023-08-04 16:56:55,095] Verify Data - Step 07: Verify 'Year' Dropdown
-<br><br/>
-[2023-08-04 16:56:55,691] Verify Data - Step 08: Verify 'Newsletter' Checkbox
-<br><br/>
-</div>
-</td>
-<td></td>
-<td>1</td>
-<td>com.nopcommerce.user.TC_01_Lv18_Manage_Test_Data_I@588307f7</td></tr>
+<td title='com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment.TC_01_Register_Account()'><b>TC_01_Register_Account</b><br>Test class: com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment</td>
+<td><div><pre>org.testng.TestNGException: 
+Parameter &apos;environment&apos; is required by BeforeClass on method beforeClass but has not been marked @Optional or defined
+in D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\resources\runMultipleEnvironment.xml
+... Removed 23 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1700751834", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1700751834'><pre>org.testng.TestNGException: 
+Parameter &apos;environment&apos; is required by BeforeClass on method beforeClass but has not been marked @Optional or defined
+in D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\resources\runMultipleEnvironment.xml
+	at org.testng.internal.Parameters.createParams(Parameters.java:290)
+	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:359)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:620)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:190)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:209)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>0</td>
+<td>com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment@540b0448</td></tr>
+<tr>
+<td title='com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment.TC_02_Login_Page()'><b>TC_02_Login_Page</b><br>Test class: com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment</td>
+<td><div><pre>org.testng.TestNGException: 
+Parameter &apos;environment&apos; is required by BeforeClass on method beforeClass but has not been marked @Optional or defined
+in D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\resources\runMultipleEnvironment.xml
+... Removed 23 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace411408557", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace411408557'><pre>org.testng.TestNGException: 
+Parameter &apos;environment&apos; is required by BeforeClass on method beforeClass but has not been marked @Optional or defined
+in D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\resources\runMultipleEnvironment.xml
+	at org.testng.internal.Parameters.createParams(Parameters.java:290)
+	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:359)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:620)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:190)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:209)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>0</td>
+<td>com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment@540b0448</td></tr>
+<tr>
+<td title='com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment.TC_03_Verify_Data()'><b>TC_03_Verify_Data</b><br>Test class: com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment</td>
+<td><div><pre>org.testng.TestNGException: 
+Parameter &apos;environment&apos; is required by BeforeClass on method beforeClass but has not been marked @Optional or defined
+in D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\resources\runMultipleEnvironment.xml
+... Removed 23 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace2096598149", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2096598149'><pre>org.testng.TestNGException: 
+Parameter &apos;environment&apos; is required by BeforeClass on method beforeClass but has not been marked @Optional or defined
+in D:\TanProMax\6 - Automation\maven-hyrbid-framework\src\test\resources\runMultipleEnvironment.xml
+	at org.testng.internal.Parameters.createParams(Parameters.java:290)
+	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:359)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:620)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:190)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:209)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>0</td>
+<td>com.nopcommerce.user.TC_01_Lv19_Multiple_Enviroment@540b0448</td></tr>
 </table><p>
 </body>
 </html>
